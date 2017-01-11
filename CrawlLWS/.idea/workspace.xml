@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cfea040-dda3-4660-8afd-273f4ce780c0" name="Default" comment="" />
+    <ignored path="crawlLWS.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CrawlLWS$crawlLWS.coverage" NAME="crawlLWS Coverage Results" MODIFIED="1466761666756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - ds_read@182.92.184.14" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="ds_read" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="crawlLWS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="crawlLWS.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crawlLWS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.17983651" vertical-offset="5428" max-vertical-offset="16360">
+              <caret line="278" column="39" selection-start-line="278" selection-start-column="36" selection-end-line="278" selection-end-column="39" />
+              <folding>
+                <element signature="e#44#54#0" expanded="true" />
+                <marker date="1466995624000" expanded="true" signature="6630:7189" placeholder="SELECT aa.ba..goods_id..." />
+                <marker date="1466995624000" expanded="true" signature="6677:6795" placeholder="SELECT goods..con_goods_banner..." />
+                <marker date="1466995624000" expanded="true" signature="7041:7071" placeholder="SELECT conte..tmp_con_guide_content..." />
+                <marker date="1466995624000" expanded="true" signature="7041:7126" placeholder="SELECT b.rn,..con_goods..." />
+                <marker date="1466995624000" expanded="true" signature="7041:7189" placeholder="SELECT aa.ba..missing_value..." />
+                <marker date="1466995624000" expanded="true" signature="7544:7615" placeholder="select DISTI..con_goods_banner..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="haohuojun.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/haohuojun.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="290" max-vertical-offset="5340">
+              <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+              <folding>
+                <element signature="e#44#64#0" expanded="true" />
+                <marker date="1466761900000" expanded="true" signature="686:742" placeholder="select guide..con_guide..." />
+                <marker date="1466761900000" expanded="true" signature="1006:1093" placeholder="select guide..con_guide..." />
+                <marker date="1466761900000" expanded="true" signature="1849:1968" placeholder="update ec_co..." />
+                <marker date="1466761900000" expanded="true" signature="2335:2468" placeholder="update ec_co..." />
+                <marker date="1466761900000" expanded="true" signature="2730:2786" placeholder="select goods..con_goods..." />
+                <marker date="1466761900000" expanded="true" signature="3014:3071" placeholder="select goods..con_goods..." />
+                <marker date="1466761900000" expanded="true" signature="3452:3526" placeholder="update ec_co..." />
+                <marker date="1466761900000" expanded="true" signature="3825:3899" placeholder="update ec_co..." />
+                <marker date="1466761900000" expanded="true" signature="4187:4317" placeholder="delete from ..." />
+                <marker date="1466761900000" expanded="true" signature="4425:4533" placeholder="select conte..con_category_content..." />
+                <marker date="1466761900000" expanded="true" signature="4752:4875" placeholder="select DISTI..con_category_content..." />
+                <marker date="1466761900000" expanded="true" signature="5570:5695" placeholder="INSERT INTO ..." />
+                <marker date="1466761900000" expanded="true" signature="6375:6470" placeholder="delete from ..." />
+                <marker date="1466761900000" expanded="true" signature="6582:6695" placeholder="select guide..con_guide..." />
+                <marker date="1466761900000" expanded="true" signature="6853:6935" placeholder="SELECT max(c..con_category_content..." />
+                <marker date="1466761900000" expanded="true" signature="7112:7357" placeholder="select topic..con_topic..." />
+                <marker date="1466761900000" expanded="true" signature="7191:7253" placeholder="SELECT * fro..con_category_content..." />
+                <marker date="1466761900000" expanded="true" signature="7660:7786" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crawlLWSdb.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawlLWSdb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="7681" max-vertical-offset="12440">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+              <folding>
+                <marker date="1466760931000" expanded="true" signature="3373:4460" placeholder="INSERT INTO ..." />
+                <marker date="1466760931000" expanded="true" signature="4616:4810" placeholder="INSERT INTO ..." />
+                <marker date="1466760931000" expanded="true" signature="4865:5426" placeholder="INSERT INTO ..." />
+                <marker date="1466760931000" expanded="true" signature="5481:5707" placeholder="INSERT INTO ..." />
+                <marker date="1466760931000" expanded="true" signature="5760:6185" placeholder="INSERT INTO ..." />
+                <marker date="1466760931000" expanded="true" signature="6239:6479" placeholder="INSERT INTO ..." />
+                <marker date="1466760931000" expanded="true" signature="6531:6871" placeholder="INSERT INTO ..." />
+                <marker date="1466760931000" expanded="true" signature="6924:7162" placeholder="INSERT INTO ..." />
+                <marker date="1466760931000" expanded="true" signature="8179:8688" placeholder="INSERT INTO ..." />
+                <marker date="1466760931000" expanded="true" signature="8689:9971" placeholder="SELECT DISTI..." />
+                <marker date="1466760931000" expanded="true" signature="10063:10807" placeholder="INSERT INTO ..." />
+                <marker date="1466760931000" expanded="true" signature="10155:10807" placeholder="SELECT DISTI..*..." />
+                <marker date="1466760931000" expanded="true" signature="10404:10770" placeholder="SELECT a.* F..tmp_con_guide_content..." />
+                <marker date="1466760931000" expanded="true" signature="11059:12981" placeholder="INSERT INTO ..." />
+                <marker date="1466760931000" expanded="true" signature="11744:11834" placeholder="SELECT DISTI..." />
+                <marker date="1466760931000" expanded="true" signature="13071:13485" placeholder="INSERT INTO ..." />
+                <marker date="1466760931000" expanded="true" signature="13156:13485" placeholder="SELECT a.goo..tmp_con_goods_banner..." />
+                <marker date="1466760931000" expanded="true" signature="13736:15208" placeholder="INSERT INTO ..." />
+                <marker date="1466760931000" expanded="true" signature="14198:15208" placeholder="SELECT DISTI..*..." />
+                <marker date="1466760931000" expanded="true" signature="14741:15093" placeholder="SELECT a.* F..tmp_con_topic..." />
+                <marker date="1466760931000" expanded="true" signature="15300:16319" placeholder="INSERT INTO ..." />
+                <marker date="1466760931000" expanded="true" signature="15504:16319" placeholder="SELECT a.* F..topic_id..." />
+                <marker date="1466760931000" expanded="true" signature="15598:16084" placeholder="SELECT a.top..con_topic..." />
+                <marker date="1466760931000" expanded="true" signature="16549:16608" placeholder="SELECT DISTI..tmp_con_item_content..." />
+                <marker date="1466760931000" expanded="true" signature="16827:16903" placeholder="SELECT categ..con_category_content..." />
+                <marker date="1466760931000" expanded="true" signature="17096:17477" placeholder="SELECT a.con..content_id..." />
+                <marker date="1466760931000" expanded="true" signature="17154:17231" placeholder="SELECT DISTI..tmp_con_item_content..." />
+                <marker date="1466760931000" expanded="true" signature="17330:17399" placeholder="SELECT conte..con_category_content..." />
+                <marker date="1466760931000" expanded="true" signature="17897:18019" placeholder="INSERT INTO ..." />
+                <marker date="1466760931000" expanded="true" signature="18859:19126" placeholder="SELECT a.goo..goods_id..." />
+                <marker date="1466760931000" expanded="true" signature="18895:18988" placeholder="select goods..con_goods..." />
+                <marker date="1466760931000" expanded="true" signature="19014:19070" placeholder="SELECT DISTI..con_guide_content..." />
+                <marker date="1466760931000" expanded="true" signature="19377:19424" placeholder="DELETE from ..." />
+                <marker date="1466760931000" expanded="true" signature="20790:20844" placeholder="DELETE from ..." />
+                <marker date="1466760931000" expanded="true" signature="21047:21094" placeholder="DELETE from ..." />
+                <marker date="1466760931000" expanded="true" signature="21386:21441" placeholder="DELETE FROM ..." />
+                <marker date="1466760931000" expanded="true" signature="21591:21638" placeholder="DELETE FROM ..." />
+                <marker date="1466760931000" expanded="true" signature="21960:22211" placeholder="SELECT conte..content_id..." />
+                <marker date="1466760931000" expanded="true" signature="22004:22084" placeholder="select DISTI..con_category_content..." />
+                <marker date="1466760931000" expanded="true" signature="22119:22156" placeholder="select goods..con_goods..." />
+                <marker date="1466760931000" expanded="true" signature="22487:22566" placeholder="DELETE from ..." />
+                <marker date="1466760931000" expanded="true" signature="22799:23050" placeholder="SELECT conte..content_id..." />
+                <marker date="1466760931000" expanded="true" signature="22843:22923" placeholder="select DISTI..con_category_content..." />
+                <marker date="1466760931000" expanded="true" signature="22958:22995" placeholder="select guide..con_guide..." />
+                <marker date="1466760931000" expanded="true" signature="23326:23405" placeholder="DELETE from ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/topics/infos" />
+        <option value="$PROJECT_DIR$/crawlLWSdb.py" />
+        <option value="$PROJECT_DIR$/haohuojun.py" />
+        <option value="db-console:/cc22e96f/47ce9c98-e754-4e90-a16f-9323c93c5c9e/" />
+        <option value="$PROJECT_DIR$/crawlLWS.py" />
+        <option value="$PROJECT_DIR$/crawlLWS.py" />
+        <option value="db-console:/cc22e96f/2f5628f6-3146-4e08-8bd8-07b2e9699463/" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="352" />
+    <option name="y" value="141" />
+    <option name="width" value="1432" />
+    <option name="height" value="868" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CrawlLWS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CrawlLWS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CrawlLWS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CrawlKK" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.crawlLWS">
+    <configuration default="false" name="crawlLWS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CrawlLWS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawlLWS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawlLWS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawlLWS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawlLWS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawlLWS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawlLWS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.database.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawlLWS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawlLWS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawlLWS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="crawlLWS" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.crawlLWS" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.crawlLWS" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cfea040-dda3-4660-8afd-273f4ce780c0" name="Default" comment="" />
+      <created>1466674375409</created>
+      <option name="number" value="Default" />
+      <updated>1466674375409</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="352" y="141" width="1432" height="868" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972583" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13636364" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3969072" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39948454" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3492268" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/crawlLWS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="16360">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#44#54#0" expanded="true" />
+            <marker date="1466995624000" expanded="true" signature="6630:7189" placeholder="SELECT aa.ba..goods_id..." />
+            <marker date="1466995624000" expanded="true" signature="6677:6795" placeholder="SELECT goods..con_goods_banner..." />
+            <marker date="1466995624000" expanded="true" signature="7041:7071" placeholder="SELECT conte..tmp_con_guide_content..." />
+            <marker date="1466995624000" expanded="true" signature="7041:7126" placeholder="SELECT b.rn,..con_goods..." />
+            <marker date="1466995624000" expanded="true" signature="7041:7189" placeholder="SELECT aa.ba..missing_value..." />
+            <marker date="1466995624000" expanded="true" signature="7544:7615" placeholder="select DISTI..con_goods_banner..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haohuojun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="290" max-vertical-offset="5340">
+          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+          <folding>
+            <element signature="e#44#64#0" expanded="true" />
+            <marker date="1466761900000" expanded="true" signature="686:742" placeholder="select guide..con_guide..." />
+            <marker date="1466761900000" expanded="true" signature="1006:1093" placeholder="select guide..con_guide..." />
+            <marker date="1466761900000" expanded="true" signature="1849:1968" placeholder="update ec_co..." />
+            <marker date="1466761900000" expanded="true" signature="2335:2468" placeholder="update ec_co..." />
+            <marker date="1466761900000" expanded="true" signature="2730:2786" placeholder="select goods..con_goods..." />
+            <marker date="1466761900000" expanded="true" signature="3014:3071" placeholder="select goods..con_goods..." />
+            <marker date="1466761900000" expanded="true" signature="3452:3526" placeholder="update ec_co..." />
+            <marker date="1466761900000" expanded="true" signature="3825:3899" placeholder="update ec_co..." />
+            <marker date="1466761900000" expanded="true" signature="4187:4317" placeholder="delete from ..." />
+            <marker date="1466761900000" expanded="true" signature="4425:4533" placeholder="select conte..con_category_content..." />
+            <marker date="1466761900000" expanded="true" signature="4752:4875" placeholder="select DISTI..con_category_content..." />
+            <marker date="1466761900000" expanded="true" signature="5570:5695" placeholder="INSERT INTO ..." />
+            <marker date="1466761900000" expanded="true" signature="6375:6470" placeholder="delete from ..." />
+            <marker date="1466761900000" expanded="true" signature="6582:6695" placeholder="select guide..con_guide..." />
+            <marker date="1466761900000" expanded="true" signature="6853:6935" placeholder="SELECT max(c..con_category_content..." />
+            <marker date="1466761900000" expanded="true" signature="7112:7357" placeholder="select topic..con_topic..." />
+            <marker date="1466761900000" expanded="true" signature="7191:7253" placeholder="SELECT * fro..con_category_content..." />
+            <marker date="1466761900000" expanded="true" signature="7660:7786" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawlLWSdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7681" max-vertical-offset="12440">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding>
+            <marker date="1466760931000" expanded="true" signature="3373:4460" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="4616:4810" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="4865:5426" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="5481:5707" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="5760:6185" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="6239:6479" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="6531:6871" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="6924:7162" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="8179:8688" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="8689:9971" placeholder="SELECT DISTI..." />
+            <marker date="1466760931000" expanded="true" signature="10063:10807" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="10155:10807" placeholder="SELECT DISTI..*..." />
+            <marker date="1466760931000" expanded="true" signature="10404:10770" placeholder="SELECT a.* F..tmp_con_guide_content..." />
+            <marker date="1466760931000" expanded="true" signature="11059:12981" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="11744:11834" placeholder="SELECT DISTI..." />
+            <marker date="1466760931000" expanded="true" signature="13071:13485" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="13156:13485" placeholder="SELECT a.goo..tmp_con_goods_banner..." />
+            <marker date="1466760931000" expanded="true" signature="13736:15208" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="14198:15208" placeholder="SELECT DISTI..*..." />
+            <marker date="1466760931000" expanded="true" signature="14741:15093" placeholder="SELECT a.* F..tmp_con_topic..." />
+            <marker date="1466760931000" expanded="true" signature="15300:16319" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="15504:16319" placeholder="SELECT a.* F..topic_id..." />
+            <marker date="1466760931000" expanded="true" signature="15598:16084" placeholder="SELECT a.top..con_topic..." />
+            <marker date="1466760931000" expanded="true" signature="16549:16608" placeholder="SELECT DISTI..tmp_con_item_content..." />
+            <marker date="1466760931000" expanded="true" signature="16827:16903" placeholder="SELECT categ..con_category_content..." />
+            <marker date="1466760931000" expanded="true" signature="17096:17477" placeholder="SELECT a.con..content_id..." />
+            <marker date="1466760931000" expanded="true" signature="17154:17231" placeholder="SELECT DISTI..tmp_con_item_content..." />
+            <marker date="1466760931000" expanded="true" signature="17330:17399" placeholder="SELECT conte..con_category_content..." />
+            <marker date="1466760931000" expanded="true" signature="17897:18019" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="18859:19126" placeholder="SELECT a.goo..goods_id..." />
+            <marker date="1466760931000" expanded="true" signature="18895:18988" placeholder="select goods..con_goods..." />
+            <marker date="1466760931000" expanded="true" signature="19014:19070" placeholder="SELECT DISTI..con_guide_content..." />
+            <marker date="1466760931000" expanded="true" signature="19377:19424" placeholder="DELETE from ..." />
+            <marker date="1466760931000" expanded="true" signature="20790:20844" placeholder="DELETE from ..." />
+            <marker date="1466760931000" expanded="true" signature="21047:21094" placeholder="DELETE from ..." />
+            <marker date="1466760931000" expanded="true" signature="21386:21441" placeholder="DELETE FROM ..." />
+            <marker date="1466760931000" expanded="true" signature="21591:21638" placeholder="DELETE FROM ..." />
+            <marker date="1466760931000" expanded="true" signature="21960:22211" placeholder="SELECT conte..content_id..." />
+            <marker date="1466760931000" expanded="true" signature="22004:22084" placeholder="select DISTI..con_category_content..." />
+            <marker date="1466760931000" expanded="true" signature="22119:22156" placeholder="select goods..con_goods..." />
+            <marker date="1466760931000" expanded="true" signature="22487:22566" placeholder="DELETE from ..." />
+            <marker date="1466760931000" expanded="true" signature="22799:23050" placeholder="SELECT conte..content_id..." />
+            <marker date="1466760931000" expanded="true" signature="22843:22923" placeholder="select DISTI..con_category_content..." />
+            <marker date="1466760931000" expanded="true" signature="22958:22995" placeholder="select guide..con_guide..." />
+            <marker date="1466760931000" expanded="true" signature="23326:23405" placeholder="DELETE from ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawlLWS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6765" max-vertical-offset="13020">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="e#44#54#0" expanded="true" />
+            <marker date="1466995624000" expanded="true" signature="6630:7189" placeholder="SELECT aa.ba..goods_id..." />
+            <marker date="1466995624000" expanded="true" signature="6677:6795" placeholder="SELECT goods..con_goods_banner..." />
+            <marker date="1466995624000" expanded="true" signature="7041:7071" placeholder="SELECT conte..tmp_con_guide_content..." />
+            <marker date="1466995624000" expanded="true" signature="7041:7126" placeholder="SELECT b.rn,..con_goods..." />
+            <marker date="1466995624000" expanded="true" signature="7041:7189" placeholder="SELECT aa.ba..missing_value..." />
+            <marker date="1466995624000" expanded="true" signature="7544:7615" placeholder="select DISTI..con_goods_banner..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haohuojun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2910" max-vertical-offset="4005">
+          <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="210" selection-end-column="40" />
+          <folding>
+            <element signature="e#44#64#0" expanded="true" />
+            <marker date="1466761900000" expanded="true" signature="686:742" placeholder="select guide..con_guide..." />
+            <marker date="1466761900000" expanded="true" signature="1006:1093" placeholder="select guide..con_guide..." />
+            <marker date="1466761900000" expanded="true" signature="1849:1968" placeholder="update ec_co..." />
+            <marker date="1466761900000" expanded="true" signature="2335:2468" placeholder="update ec_co..." />
+            <marker date="1466761900000" expanded="true" signature="2730:2786" placeholder="select goods..con_goods..." />
+            <marker date="1466761900000" expanded="true" signature="3014:3071" placeholder="select goods..con_goods..." />
+            <marker date="1466761900000" expanded="true" signature="3452:3526" placeholder="update ec_co..." />
+            <marker date="1466761900000" expanded="true" signature="3825:3899" placeholder="update ec_co..." />
+            <marker date="1466761900000" expanded="true" signature="4187:4317" placeholder="delete from ..." />
+            <marker date="1466761900000" expanded="true" signature="4425:4533" placeholder="select conte..con_category_content..." />
+            <marker date="1466761900000" expanded="true" signature="4752:4875" placeholder="select DISTI..con_category_content..." />
+            <marker date="1466761900000" expanded="true" signature="5570:5695" placeholder="INSERT INTO ..." />
+            <marker date="1466761900000" expanded="true" signature="6375:6470" placeholder="delete from ..." />
+            <marker date="1466761900000" expanded="true" signature="6582:6695" placeholder="select guide..con_guide..." />
+            <marker date="1466761900000" expanded="true" signature="6853:6935" placeholder="SELECT max(c..con_category_content..." />
+            <marker date="1466761900000" expanded="true" signature="7112:7357" placeholder="select topic..con_topic..." />
+            <marker date="1466761900000" expanded="true" signature="7191:7253" placeholder="SELECT * fro..con_category_content..." />
+            <marker date="1466761900000" expanded="true" signature="7660:7786" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawlLWSdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8717" max-vertical-offset="9330">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding>
+            <marker date="1466760931000" expanded="true" signature="3373:4460" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="4616:4810" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="4865:5426" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="5481:5707" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="5760:6185" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="6239:6479" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="6531:6871" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="6924:7162" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="8179:8688" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="8689:9971" placeholder="SELECT DISTI..." />
+            <marker date="1466760931000" expanded="true" signature="10063:10807" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="10155:10807" placeholder="SELECT DISTI..*..." />
+            <marker date="1466760931000" expanded="true" signature="10404:10770" placeholder="SELECT a.* F..tmp_con_guide_content..." />
+            <marker date="1466760931000" expanded="true" signature="11059:12981" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="11744:11834" placeholder="SELECT DISTI..." />
+            <marker date="1466760931000" expanded="true" signature="13071:13485" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="13156:13485" placeholder="SELECT a.goo..tmp_con_goods_banner..." />
+            <marker date="1466760931000" expanded="true" signature="13736:15208" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="14198:15208" placeholder="SELECT DISTI..*..." />
+            <marker date="1466760931000" expanded="true" signature="14741:15093" placeholder="SELECT a.* F..tmp_con_topic..." />
+            <marker date="1466760931000" expanded="true" signature="15300:16319" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="15504:16319" placeholder="SELECT a.* F..topic_id..." />
+            <marker date="1466760931000" expanded="true" signature="15598:16084" placeholder="SELECT a.top..con_topic..." />
+            <marker date="1466760931000" expanded="true" signature="16549:16608" placeholder="SELECT DISTI..tmp_con_item_content..." />
+            <marker date="1466760931000" expanded="true" signature="16827:16903" placeholder="SELECT categ..con_category_content..." />
+            <marker date="1466760931000" expanded="true" signature="17096:17477" placeholder="SELECT a.con..content_id..." />
+            <marker date="1466760931000" expanded="true" signature="17154:17231" placeholder="SELECT DISTI..tmp_con_item_content..." />
+            <marker date="1466760931000" expanded="true" signature="17330:17399" placeholder="SELECT conte..con_category_content..." />
+            <marker date="1466760931000" expanded="true" signature="17897:18019" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="18859:19126" placeholder="SELECT a.goo..goods_id..." />
+            <marker date="1466760931000" expanded="true" signature="18895:18988" placeholder="select goods..con_goods..." />
+            <marker date="1466760931000" expanded="true" signature="19014:19070" placeholder="SELECT DISTI..con_guide_content..." />
+            <marker date="1466760931000" expanded="true" signature="19377:19424" placeholder="DELETE from ..." />
+            <marker date="1466760931000" expanded="true" signature="20790:20844" placeholder="DELETE from ..." />
+            <marker date="1466760931000" expanded="true" signature="21047:21094" placeholder="DELETE from ..." />
+            <marker date="1466760931000" expanded="true" signature="21386:21441" placeholder="DELETE FROM ..." />
+            <marker date="1466760931000" expanded="true" signature="21591:21638" placeholder="DELETE FROM ..." />
+            <marker date="1466760931000" expanded="true" signature="21960:22211" placeholder="SELECT conte..content_id..." />
+            <marker date="1466760931000" expanded="true" signature="22004:22084" placeholder="select DISTI..con_category_content..." />
+            <marker date="1466760931000" expanded="true" signature="22119:22156" placeholder="select goods..con_goods..." />
+            <marker date="1466760931000" expanded="true" signature="22487:22566" placeholder="DELETE from ..." />
+            <marker date="1466760931000" expanded="true" signature="22799:23050" placeholder="SELECT conte..content_id..." />
+            <marker date="1466760931000" expanded="true" signature="22843:22923" placeholder="select DISTI..con_category_content..." />
+            <marker date="1466760931000" expanded="true" signature="22958:22995" placeholder="select guide..con_guide..." />
+            <marker date="1466760931000" expanded="true" signature="23326:23405" placeholder="DELETE from ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/items/channelsinfos">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/items/itemscontent">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="32550" max-vertical-offset="32805">
+          <caret line="2170" column="0" selection-start-line="2170" selection-start-column="0" selection-end-line="2170" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topics/topicscontent">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawlLWS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6765" max-vertical-offset="13020">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="e#44#54#0" expanded="true" />
+            <marker date="1466995624000" expanded="true" signature="6630:7189" placeholder="SELECT aa.ba..goods_id..." />
+            <marker date="1466995624000" expanded="true" signature="6677:6795" placeholder="SELECT goods..con_goods_banner..." />
+            <marker date="1466995624000" expanded="true" signature="7041:7071" placeholder="SELECT conte..tmp_con_guide_content..." />
+            <marker date="1466995624000" expanded="true" signature="7041:7126" placeholder="SELECT b.rn,..con_goods..." />
+            <marker date="1466995624000" expanded="true" signature="7041:7189" placeholder="SELECT aa.ba..missing_value..." />
+            <marker date="1466995624000" expanded="true" signature="7544:7615" placeholder="select DISTI..con_goods_banner..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haohuojun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2910" max-vertical-offset="4005">
+          <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="210" selection-end-column="40" />
+          <folding>
+            <element signature="e#44#64#0" expanded="true" />
+            <marker date="1466761900000" expanded="true" signature="686:742" placeholder="select guide..con_guide..." />
+            <marker date="1466761900000" expanded="true" signature="1006:1093" placeholder="select guide..con_guide..." />
+            <marker date="1466761900000" expanded="true" signature="1849:1968" placeholder="update ec_co..." />
+            <marker date="1466761900000" expanded="true" signature="2335:2468" placeholder="update ec_co..." />
+            <marker date="1466761900000" expanded="true" signature="2730:2786" placeholder="select goods..con_goods..." />
+            <marker date="1466761900000" expanded="true" signature="3014:3071" placeholder="select goods..con_goods..." />
+            <marker date="1466761900000" expanded="true" signature="3452:3526" placeholder="update ec_co..." />
+            <marker date="1466761900000" expanded="true" signature="3825:3899" placeholder="update ec_co..." />
+            <marker date="1466761900000" expanded="true" signature="4187:4317" placeholder="delete from ..." />
+            <marker date="1466761900000" expanded="true" signature="4425:4533" placeholder="select conte..con_category_content..." />
+            <marker date="1466761900000" expanded="true" signature="4752:4875" placeholder="select DISTI..con_category_content..." />
+            <marker date="1466761900000" expanded="true" signature="5570:5695" placeholder="INSERT INTO ..." />
+            <marker date="1466761900000" expanded="true" signature="6375:6470" placeholder="delete from ..." />
+            <marker date="1466761900000" expanded="true" signature="6582:6695" placeholder="select guide..con_guide..." />
+            <marker date="1466761900000" expanded="true" signature="6853:6935" placeholder="SELECT max(c..con_category_content..." />
+            <marker date="1466761900000" expanded="true" signature="7112:7357" placeholder="select topic..con_topic..." />
+            <marker date="1466761900000" expanded="true" signature="7191:7253" placeholder="SELECT * fro..con_category_content..." />
+            <marker date="1466761900000" expanded="true" signature="7660:7786" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawlLWSdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8717" max-vertical-offset="9330">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding>
+            <marker date="1466760931000" expanded="true" signature="3373:4460" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="4616:4810" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="4865:5426" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="5481:5707" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="5760:6185" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="6239:6479" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="6531:6871" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="6924:7162" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="8179:8688" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="8689:9971" placeholder="SELECT DISTI..." />
+            <marker date="1466760931000" expanded="true" signature="10063:10807" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="10155:10807" placeholder="SELECT DISTI..*..." />
+            <marker date="1466760931000" expanded="true" signature="10404:10770" placeholder="SELECT a.* F..tmp_con_guide_content..." />
+            <marker date="1466760931000" expanded="true" signature="11059:12981" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="11744:11834" placeholder="SELECT DISTI..." />
+            <marker date="1466760931000" expanded="true" signature="13071:13485" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="13156:13485" placeholder="SELECT a.goo..tmp_con_goods_banner..." />
+            <marker date="1466760931000" expanded="true" signature="13736:15208" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="14198:15208" placeholder="SELECT DISTI..*..." />
+            <marker date="1466760931000" expanded="true" signature="14741:15093" placeholder="SELECT a.* F..tmp_con_topic..." />
+            <marker date="1466760931000" expanded="true" signature="15300:16319" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="15504:16319" placeholder="SELECT a.* F..topic_id..." />
+            <marker date="1466760931000" expanded="true" signature="15598:16084" placeholder="SELECT a.top..con_topic..." />
+            <marker date="1466760931000" expanded="true" signature="16549:16608" placeholder="SELECT DISTI..tmp_con_item_content..." />
+            <marker date="1466760931000" expanded="true" signature="16827:16903" placeholder="SELECT categ..con_category_content..." />
+            <marker date="1466760931000" expanded="true" signature="17096:17477" placeholder="SELECT a.con..content_id..." />
+            <marker date="1466760931000" expanded="true" signature="17154:17231" placeholder="SELECT DISTI..tmp_con_item_content..." />
+            <marker date="1466760931000" expanded="true" signature="17330:17399" placeholder="SELECT conte..con_category_content..." />
+            <marker date="1466760931000" expanded="true" signature="17897:18019" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="18859:19126" placeholder="SELECT a.goo..goods_id..." />
+            <marker date="1466760931000" expanded="true" signature="18895:18988" placeholder="select goods..con_goods..." />
+            <marker date="1466760931000" expanded="true" signature="19014:19070" placeholder="SELECT DISTI..con_guide_content..." />
+            <marker date="1466760931000" expanded="true" signature="19377:19424" placeholder="DELETE from ..." />
+            <marker date="1466760931000" expanded="true" signature="20790:20844" placeholder="DELETE from ..." />
+            <marker date="1466760931000" expanded="true" signature="21047:21094" placeholder="DELETE from ..." />
+            <marker date="1466760931000" expanded="true" signature="21386:21441" placeholder="DELETE FROM ..." />
+            <marker date="1466760931000" expanded="true" signature="21591:21638" placeholder="DELETE FROM ..." />
+            <marker date="1466760931000" expanded="true" signature="21960:22211" placeholder="SELECT conte..content_id..." />
+            <marker date="1466760931000" expanded="true" signature="22004:22084" placeholder="select DISTI..con_category_content..." />
+            <marker date="1466760931000" expanded="true" signature="22119:22156" placeholder="select goods..con_goods..." />
+            <marker date="1466760931000" expanded="true" signature="22487:22566" placeholder="DELETE from ..." />
+            <marker date="1466760931000" expanded="true" signature="22799:23050" placeholder="SELECT conte..content_id..." />
+            <marker date="1466760931000" expanded="true" signature="22843:22923" placeholder="select DISTI..con_category_content..." />
+            <marker date="1466760931000" expanded="true" signature="22958:22995" placeholder="select guide..con_guide..." />
+            <marker date="1466760931000" expanded="true" signature="23326:23405" placeholder="DELETE from ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/items/channelsinfos">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/items/itemscontent">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="32550" max-vertical-offset="32805">
+          <caret line="2170" column="0" selection-start-line="2170" selection-start-column="0" selection-end-line="2170" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topics/topicscontent">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/columns/columnsinfos">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3451883" vertical-offset="0" max-vertical-offset="478">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goods/html/1002918.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
+          <caret line="0" column="61" selection-start-line="0" selection-start-column="61" selection-end-line="0" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goods/bannarurl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7121535" vertical-offset="5066" max-vertical-offset="5535">
+          <caret line="360" column="0" selection-start-line="360" selection-start-column="0" selection-end-line="360" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goods/html/1002919.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="90">
+          <caret line="0" column="39" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topics/infos">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="765">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/topics/topicscontent">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.76974565" vertical-offset="11455" max-vertical-offset="12225">
+          <caret line="802" column="0" selection-start-line="802" selection-start-column="0" selection-end-line="802" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/items/itemscontent">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65863454" vertical-offset="32058" max-vertical-offset="32805">
+          <caret line="2170" column="0" selection-start-line="2170" selection-start-column="0" selection-end-line="2170" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/items/channelsinfos">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/cc22e96f/2f5628f6-3146-4e08-8bd8-07b2e9699463/ds_read..prd_bid_c">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/cc22e96f/2f5628f6-3146-4e08-8bd8-07b2e9699463/ds_read..app_uuid_access_chnl_d">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawlLWSdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7681" max-vertical-offset="12440">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding>
+            <marker date="1466760931000" expanded="true" signature="3373:4460" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="4616:4810" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="4865:5426" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="5481:5707" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="5760:6185" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="6239:6479" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="6531:6871" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="6924:7162" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="8179:8688" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="8689:9971" placeholder="SELECT DISTI..." />
+            <marker date="1466760931000" expanded="true" signature="10063:10807" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="10155:10807" placeholder="SELECT DISTI..*..." />
+            <marker date="1466760931000" expanded="true" signature="10404:10770" placeholder="SELECT a.* F..tmp_con_guide_content..." />
+            <marker date="1466760931000" expanded="true" signature="11059:12981" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="11744:11834" placeholder="SELECT DISTI..." />
+            <marker date="1466760931000" expanded="true" signature="13071:13485" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="13156:13485" placeholder="SELECT a.goo..tmp_con_goods_banner..." />
+            <marker date="1466760931000" expanded="true" signature="13736:15208" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="14198:15208" placeholder="SELECT DISTI..*..." />
+            <marker date="1466760931000" expanded="true" signature="14741:15093" placeholder="SELECT a.* F..tmp_con_topic..." />
+            <marker date="1466760931000" expanded="true" signature="15300:16319" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="15504:16319" placeholder="SELECT a.* F..topic_id..." />
+            <marker date="1466760931000" expanded="true" signature="15598:16084" placeholder="SELECT a.top..con_topic..." />
+            <marker date="1466760931000" expanded="true" signature="16549:16608" placeholder="SELECT DISTI..tmp_con_item_content..." />
+            <marker date="1466760931000" expanded="true" signature="16827:16903" placeholder="SELECT categ..con_category_content..." />
+            <marker date="1466760931000" expanded="true" signature="17096:17477" placeholder="SELECT a.con..content_id..." />
+            <marker date="1466760931000" expanded="true" signature="17154:17231" placeholder="SELECT DISTI..tmp_con_item_content..." />
+            <marker date="1466760931000" expanded="true" signature="17330:17399" placeholder="SELECT conte..con_category_content..." />
+            <marker date="1466760931000" expanded="true" signature="17897:18019" placeholder="INSERT INTO ..." />
+            <marker date="1466760931000" expanded="true" signature="18859:19126" placeholder="SELECT a.goo..goods_id..." />
+            <marker date="1466760931000" expanded="true" signature="18895:18988" placeholder="select goods..con_goods..." />
+            <marker date="1466760931000" expanded="true" signature="19014:19070" placeholder="SELECT DISTI..con_guide_content..." />
+            <marker date="1466760931000" expanded="true" signature="19377:19424" placeholder="DELETE from ..." />
+            <marker date="1466760931000" expanded="true" signature="20790:20844" placeholder="DELETE from ..." />
+            <marker date="1466760931000" expanded="true" signature="21047:21094" placeholder="DELETE from ..." />
+            <marker date="1466760931000" expanded="true" signature="21386:21441" placeholder="DELETE FROM ..." />
+            <marker date="1466760931000" expanded="true" signature="21591:21638" placeholder="DELETE FROM ..." />
+            <marker date="1466760931000" expanded="true" signature="21960:22211" placeholder="SELECT conte..content_id..." />
+            <marker date="1466760931000" expanded="true" signature="22004:22084" placeholder="select DISTI..con_category_content..." />
+            <marker date="1466760931000" expanded="true" signature="22119:22156" placeholder="select goods..con_goods..." />
+            <marker date="1466760931000" expanded="true" signature="22487:22566" placeholder="DELETE from ..." />
+            <marker date="1466760931000" expanded="true" signature="22799:23050" placeholder="SELECT conte..content_id..." />
+            <marker date="1466760931000" expanded="true" signature="22843:22923" placeholder="select DISTI..con_category_content..." />
+            <marker date="1466760931000" expanded="true" signature="22958:22995" placeholder="select guide..con_guide..." />
+            <marker date="1466760931000" expanded="true" signature="23326:23405" placeholder="DELETE from ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haohuojun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="290" max-vertical-offset="5340">
+          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+          <folding>
+            <element signature="e#44#64#0" expanded="true" />
+            <marker date="1466761900000" expanded="true" signature="686:742" placeholder="select guide..con_guide..." />
+            <marker date="1466761900000" expanded="true" signature="1006:1093" placeholder="select guide..con_guide..." />
+            <marker date="1466761900000" expanded="true" signature="1849:1968" placeholder="update ec_co..." />
+            <marker date="1466761900000" expanded="true" signature="2335:2468" placeholder="update ec_co..." />
+            <marker date="1466761900000" expanded="true" signature="2730:2786" placeholder="select goods..con_goods..." />
+            <marker date="1466761900000" expanded="true" signature="3014:3071" placeholder="select goods..con_goods..." />
+            <marker date="1466761900000" expanded="true" signature="3452:3526" placeholder="update ec_co..." />
+            <marker date="1466761900000" expanded="true" signature="3825:3899" placeholder="update ec_co..." />
+            <marker date="1466761900000" expanded="true" signature="4187:4317" placeholder="delete from ..." />
+            <marker date="1466761900000" expanded="true" signature="4425:4533" placeholder="select conte..con_category_content..." />
+            <marker date="1466761900000" expanded="true" signature="4752:4875" placeholder="select DISTI..con_category_content..." />
+            <marker date="1466761900000" expanded="true" signature="5570:5695" placeholder="INSERT INTO ..." />
+            <marker date="1466761900000" expanded="true" signature="6375:6470" placeholder="delete from ..." />
+            <marker date="1466761900000" expanded="true" signature="6582:6695" placeholder="select guide..con_guide..." />
+            <marker date="1466761900000" expanded="true" signature="6853:6935" placeholder="SELECT max(c..con_category_content..." />
+            <marker date="1466761900000" expanded="true" signature="7112:7357" placeholder="select topic..con_topic..." />
+            <marker date="1466761900000" expanded="true" signature="7191:7253" placeholder="SELECT * fro..con_category_content..." />
+            <marker date="1466761900000" expanded="true" signature="7660:7786" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://db-console:/cc22e96f/47ce9c98-e754-4e90-a16f-9323c93c5c9e/">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09779951" vertical-offset="0" max-vertical-offset="409">
+          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://db-console:/cc22e96f/2f5628f6-3146-4e08-8bd8-07b2e9699463/">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
+          <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawlLWS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17983651" vertical-offset="5428" max-vertical-offset="16360">
+          <caret line="278" column="39" selection-start-line="278" selection-start-column="36" selection-end-line="278" selection-end-column="39" />
+          <folding>
+            <element signature="e#44#54#0" expanded="true" />
+            <marker date="1466995624000" expanded="true" signature="6630:7189" placeholder="SELECT aa.ba..goods_id..." />
+            <marker date="1466995624000" expanded="true" signature="6677:6795" placeholder="SELECT goods..con_goods_banner..." />
+            <marker date="1466995624000" expanded="true" signature="7041:7071" placeholder="SELECT conte..tmp_con_guide_content..." />
+            <marker date="1466995624000" expanded="true" signature="7041:7126" placeholder="SELECT b.rn,..con_goods..." />
+            <marker date="1466995624000" expanded="true" signature="7041:7189" placeholder="SELECT aa.ba..missing_value..." />
+            <marker date="1466995624000" expanded="true" signature="7544:7615" placeholder="select DISTI..con_goods_banner..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

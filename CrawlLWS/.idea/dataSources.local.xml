@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - ec_con@123.56.138.94" uuid="47ce9c98-e754-4e90-a16f-9323c93c5c9e">
+      <secret-storage>master_key</secret-storage>
+      <user-name>commerce</user-name>
+      <schema-pattern>ec_con.*</schema-pattern>
+      <default-schemas>ec_con.*</default-schemas>
+    </data-source>
+    <data-source name="MySQL - ds_read@182.92.184.14" uuid="2f5628f6-3146-4e08-8bd8-07b2e9699463">
+      <secret-storage>memory</secret-storage>
+      <user-name>cx_fujun</user-name>
+      <schema-pattern>ds_read.*</schema-pattern>
+      <default-schemas>ds_read.*</default-schemas>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - ec_con@123.56.138.94" uuid="47ce9c98-e754-4e90-a16f-9323c93c5c9e">
+    <database-info product="MySQL" version="5.6.16-log" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower"/>
+    <schema name="" catalog="ec_con"/>
+    <table name="con_category" schema="" catalog="ec_con" type="TABLE">
+      <column name="category_id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" remarks="55uu5b2VaWQ=" autoIncrement="true"/>
+      <column name="category_name" sqlType="VARCHAR" precision="32" scale="0" nullable="true" jdbcType="12" remarks="5LiT5Yy65ZCN56ew"/>
+      <column name="parent_category_id" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4" remarks="54i25LiT5Yy6SUQ="/>
+      <column name="category_level" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4" remarks="MDrmoLnoioLngrkgMTrkuIDnuqfnm67lvZUgMjrkuoznuqfnm67lvZU="/>
+      <column name="create_time" sqlType="TIMESTAMP" precision="19" scale="0" nullable="true" jdbcType="93" def="Q1VSUkVOVF9USU1FU1RBTVA=" remarks="5Yib5bu65pe26Ze0"/>
+      <column name="modify_time" sqlType="TIMESTAMP" precision="19" scale="0" nullable="true" jdbcType="93" def="Q1VSUkVOVF9USU1FU1RBTVA=" remarks="5L+u5pS55pe26Ze0"/>
+      <column name="content_count" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4" remarks="5YaF5a655oC75pWw"/>
+      <column name="image_url" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="category_tag" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12" remarks="5YaF5a655LiT5Yy65qCH562+"/>
+      <column name="category_desc" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12" remarks="5YaF5a655LiT5Yy65o+P6L+w"/>
+      <column name="category_status" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6" remarks="5LiT5Yy654q25oCBMO+8muWIoOmZpO+8jDHmraPluLg="/>
+      <column name="leaf_type" sqlType="VARCHAR" precision="32" scale="0" nullable="true" jdbcType="12" remarks="5Y+25a2Q57G75Z6L6ZmQ5Yi277ya5qC85byP77yaIDEsMiAg6K+05piO77yaMSDlm77kuaYgMjrmj5Lmkq0gNTrnm67lvZU="/>
+      <column name="image_style" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6" remarks="5YmN56uv5oiR55qE5qCH562+77yM5pi+56S6"/>
+      <primary-key name="PRIMARY" columns="category_id"/>
+      <index name="idx_con_category_parent" unique="false" columns="parent_category_id"/>
+    </table>
+    <table name="con_category_content" schema="" catalog="ec_con" type="TABLE">
+      <column name="id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="category_id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" def="MA==" remarks="57G755uuaWQ="/>
+      <column name="content_id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" def="MA==" remarks="5YaF5a65SUQ="/>
+      <column name="content_type" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" def="MA==" remarks="5YaF5a6557G75Z6LOjEg5ZWG5ZOBIDI65pS755WlIDPvvJrkuJPpopggNTrnm67lvZU="/>
+      <column name="category_location" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <column name="font_color" sqlType="VARCHAR" precision="32" scale="0" nullable="true" jdbcType="12"/>
+      <column name="status" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4" def="MA==" remarks="MOS4i+e6vzHkuIrnur8="/>
+      <primary-key name="PRIMARY" columns="id"/>
+      <index name="uk_caid_conid_type" unique="true" columns="category_id,content_type,content_id"/>
+    </table>
+    <table name="con_content_intercut" schema="" catalog="ec_con" type="TABLE">
+      <column name="id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="intercut_id" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4" remarks="5bm/5ZGKSUQ="/>
+      <column name="countdown" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6" remarks="5bm/5ZGK5YCS6K6h5pe2"/>
+      <column name="start_day" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4" remarks="5oqV5pS+5pel5pyf"/>
+      <column name="end_day" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4" remarks="57uT5p2f5pe26Ze0"/>
+      <column name="status" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6" remarks="5Zyo57q/54q25oCBOuOAgDA65LiL57q/44CA44CAMTrkuIrnur8="/>
+      <column name="skip_flag" sqlType="TINYINT" precision="3" scale="0" nullable="false" jdbcType="-6" remarks="MDrkuI3lj6/ot7Pov4cgMTrlj6/ot7Pov4c="/>
+      <primary-key name="PRIMARY" columns="id"/>
+      <index name="uk_content_intercut" unique="true" columns="intercut_id"/>
+    </table>
+    <table name="con_goods" schema="" catalog="ec_con" type="TABLE">
+      <column name="goods_id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="goods_name" sqlType="VARCHAR" precision="128" scale="0" nullable="true" jdbcType="12" remarks="5ZWG5ZOB5ZCN56ew"/>
+      <column name="goods_type" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6" def="MQ==" remarks="MTrmma7pgJrllYblk4EgIDI66aaW6aG15ZWG5ZOB"/>
+      <column name="image_url" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12" remarks="5Zu+54mHVVJM"/>
+      <column name="image_style" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6" def="MQ==" remarks="5Zu+54mH57G75Z6L"/>
+      <column name="goods_brief" sqlType="VARCHAR" precision="2000" scale="0" nullable="true" jdbcType="12" remarks="5ZWG5ZOB566A5LuL"/>
+      <column name="goods_price" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4" remarks="5ZWG5ZOB5Lu35qC8"/>
+      <column name="source_gid" sqlType="VARCHAR" precision="32" scale="0" nullable="true" jdbcType="12" remarks="56ys5LiJ5pa55ZWG5ZOBaWQ="/>
+      <column name="source_id" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6" remarks="56ys5LiJ5pa5aWQ="/>
+      <column name="source_shop_id" sqlType="VARCHAR" precision="32" scale="0" nullable="true" jdbcType="12" remarks="56ys5LiJ5pa55bqX6ZO6aWQ="/>
+      <column name="goods_status" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4" def="Mg==" remarks="5ZWG5ZOB54q25oCBMOS4i+e6vzHkuIrnur8="/>
+      <column name="image_type" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6" remarks="5Zu+54mH57G75Z6LIDHmlrnlvaIgIDLplb/mlrnlvaIgIOW8g+eUqA=="/>
+      <column name="category_id" sqlType="VARCHAR" precision="11" scale="0" nullable="true" jdbcType="12" remarks="5ZWG5ZOB5YiG57G7"/>
+      <column name="create_time" sqlType="TIMESTAMP" precision="19" scale="0" nullable="true" jdbcType="93" def="Q1VSUkVOVF9USU1FU1RBTVA="/>
+      <column name="modify_time" sqlType="TIMESTAMP" precision="19" scale="0" nullable="true" jdbcType="93" def="Q1VSUkVOVF9USU1FU1RBTVA=" version="true"/>
+      <column name="content_path" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12" remarks="5YaF5a656Lev5b6E"/>
+      <column name="source_url" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="collect_uv" sqlType="INT UNSIGNED" precision="10" scale="0" nullable="true" jdbcType="4" def="MA==" remarks="5pS26JeP5pWw"/>
+      <column name="initial_uv" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4" def="MA==" remarks="5pS26JeP5Yid5aeL5YC8"/>
+      <column name="goods_second_name" sqlType="VARCHAR" precision="128" scale="0" nullable="true" jdbcType="12" remarks="5Ymv5qCH6aKY"/>
+      <column name="sale_url" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12" remarks="5LyY5oOg6ZO+5o6l"/>
+      <column name="goods_content" sqlType="MEDIUMTEXT" precision="16777215" scale="0" nullable="true" jdbcType="-1"/>
+      <column name="goods_old_price" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <primary-key name="PRIMARY" columns="goods_id"/>
+      <index name="ft_goods_name" unique="false" columns="goods_name"/>
+      <index name="uk_gid_sgid_gtype" unique="false" columns="source_gid,source_id,goods_type"/>
+    </table>
+    <table name="con_goods_banner" schema="" catalog="ec_con" type="TABLE">
+      <column name="id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="goods_id" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <column name="banner_url" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="id"/>
+      <index name="idx_gid" unique="false" columns="goods_id"/>
+    </table>
+    <table name="con_guide" schema="" catalog="ec_con" type="TABLE">
+      <column name="guide_id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" remarks="5pS755WlSUQ=" autoIncrement="true"/>
+      <column name="guide_type" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6"/>
+      <column name="guide_status" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6" remarks="5pS755Wl54q25oCBMOS4i+e6vzHkuIrnur8="/>
+      <column name="guide_title" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12" remarks="5pS755Wl5qCH6aKY"/>
+      <column name="image_url" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12" remarks="5bCB6Z2i5Zyw5Z2A"/>
+      <column name="image_style" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6"/>
+      <column name="guide_brief" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12" remarks="5pS755Wl566A5LuL"/>
+      <column name="create_time" sqlType="TIMESTAMP" precision="19" scale="0" nullable="true" jdbcType="93" def="Q1VSUkVOVF9USU1FU1RBTVA="/>
+      <column name="modify_time" sqlType="TIMESTAMP" precision="19" scale="0" nullable="true" jdbcType="93" def="Q1VSUkVOVF9USU1FU1RBTVA=" version="true"/>
+      <column name="guide_path" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12" remarks="5pS755Wl6Lev5b6E"/>
+      <column name="guide_short_title" sqlType="VARCHAR" precision="128" scale="0" nullable="true" jdbcType="12"/>
+      <column name="content_cnt" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <column name="collect_uv" sqlType="INT UNSIGNED" precision="10" scale="0" nullable="true" jdbcType="4" def="MA=="/>
+      <column name="initial_uv" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4" def="MA=="/>
+      <column name="guide_content" sqlType="MEDIUMTEXT" precision="16777215" scale="0" nullable="true" jdbcType="-1"/>
+      <primary-key name="PRIMARY" columns="guide_id"/>
+    </table>
+    <table name="con_guide_content" schema="" catalog="ec_con" type="TABLE">
+      <column name="id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="guide_id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" remarks="5pS755WlSUQ="/>
+      <column name="content_id" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <column name="rn" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <primary-key name="PRIMARY" columns="id"/>
+      <index name="uk_guid_cid" unique="true" columns="guide_id,content_id"/>
+      <index name="idx_guide" unique="false" columns="guide_id"/>
+    </table>
+    <table name="con_intercut" schema="" catalog="ec_con" type="TABLE">
+      <column name="intercut_id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" remarks="5o+S5pKtaWQ=" autoIncrement="true"/>
+      <column name="intercut_name" sqlType="VARCHAR" precision="100" scale="0" nullable="true" jdbcType="12" remarks="5bm/5ZGK5ZCN56ew"/>
+      <column name="intercut_type" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6" remarks="5o+S5pKt5YaF5a6557G75Z6LIGVtbnVfaW50ZXJjdXRfdHlwZQ=="/>
+      <column name="content_id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" remarks="5YaF5a65SUQ="/>
+      <column name="content_type" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4" remarks="5pWw5o2u5rqQ57G75Z6LO2VtbnVfY29udGVudF90eXBl"/>
+      <column name="image_url" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="image_style" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6" remarks="5Zu+54mH6aOO5qC8"/>
+      <column name="redirect_url" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12" remarks="6Lez6L2sdXJs"/>
+      <column name="ios_redirect_url" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="recommend_words" sqlType="VARCHAR" precision="50" scale="0" nullable="true" jdbcType="12" remarks="5o6o5bm/6K+t"/>
+      <column name="intercut_desc" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12" remarks="5bm/5ZGK5o+P6L+w"/>
+      <column name="remark" sqlType="VARCHAR" precision="128" scale="0" nullable="true" jdbcType="12" remarks="5aSH5rOo"/>
+      <column name="online_status" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6" remarks="5LiK57q/Me+8jOmihOWPkeW4gzLvvIzliKDpmaQz"/>
+      <column name="main_activity" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="package_name" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="button_name" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="intercut_source" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6"/>
+      <primary-key name="PRIMARY" columns="intercut_id"/>
+      <index name="content_id" unique="false" columns="content_id"/>
+    </table>
+    <table name="con_keyword" schema="" catalog="ec_con" type="TABLE">
+      <column name="id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="keyword" sqlType="VARCHAR" precision="30" scale="0" nullable="false" jdbcType="12" def="Jyc="/>
+      <column name="query_count" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4" def="MA=="/>
+      <column name="query_type" sqlType="TINYINT" precision="3" scale="0" nullable="false" jdbcType="-6" def="MA==" remarks="MDrlhbPplK7lrZfvvJsx5ZWG5ZOB77ybMuaUu+eVpSAz5LiT6aKY"/>
+      <column name="adjust_weight" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4" def="MA=="/>
+      <primary-key name="PRIMARY" columns="id"/>
+      <index name="inx_keyword" unique="false" columns="keyword"/>
+      <index name="inx_query_type" unique="false" columns="query_type"/>
+    </table>
+    <table name="con_notice" schema="" catalog="ec_con" type="TABLE">
+      <column name="notice_id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" remarks="5pS755WlSUQ=" autoIncrement="true"/>
+      <column name="notice_type" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6" remarks="5raI5oGv57G75Z6LIDHlm77niYcgMuaWh+Wtlw=="/>
+      <column name="notice_status" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6" remarks="5pS755Wl54q25oCBIDHmraPluLggIDLkuIvnur8="/>
+      <column name="image_url" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12" remarks="5bCB6Z2i5Zyw5Z2A"/>
+      <column name="notice_content" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12" remarks="5pS755Wl566A5LuL"/>
+      <column name="create_time" sqlType="TIMESTAMP" precision="19" scale="0" nullable="false" jdbcType="93" def="Q1VSUkVOVF9USU1FU1RBTVA=" version="true"/>
+      <column name="modify_time" sqlType="TIMESTAMP" precision="19" scale="0" nullable="false" jdbcType="93" def="Q1VSUkVOVF9USU1FU1RBTVA=" version="true"/>
+      <column name="redirect_url" sqlType="VARCHAR" precision="255" scale="0" nullable="false" jdbcType="12"/>
+      <column name="content_type" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <column name="content_id" sqlType="BIGINT" precision="19" scale="0" nullable="true" jdbcType="-5"/>
+      <primary-key name="PRIMARY" columns="notice_id"/>
+    </table>
+    <table name="con_topic" schema="" catalog="ec_con" type="TABLE">
+      <column name="topic_id" sqlType="INT UNSIGNED" precision="10" scale="0" nullable="false" jdbcType="4" remarks="55uu5b2VaWQ=" autoIncrement="true"/>
+      <column name="topic_name" sqlType="VARCHAR" precision="32" scale="0" nullable="true" jdbcType="12" remarks="5LiT5Yy65ZCN56ew"/>
+      <column name="create_time" sqlType="TIMESTAMP" precision="19" scale="0" nullable="true" jdbcType="93" def="Q1VSUkVOVF9USU1FU1RBTVA=" remarks="5Yib5bu65pe26Ze0"/>
+      <column name="modify_time" sqlType="TIMESTAMP" precision="19" scale="0" nullable="true" jdbcType="93" def="Q1VSUkVOVF9USU1FU1RBTVA=" remarks="5L+u5pS55pe26Ze0"/>
+      <column name="content_count" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4" remarks="5YaF5a655oC75pWw"/>
+      <column name="image_url" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12"/>
+      <column name="topic_tag" sqlType="VARCHAR" precision="255" scale="0" nullable="true" jdbcType="12" remarks="5YaF5a655LiT5Yy65qCH562+"/>
+      <column name="topic_desc" sqlType="VARCHAR" precision="2000" scale="0" nullable="true" jdbcType="12" remarks="5YaF5a655LiT5Yy65o+P6L+w"/>
+      <column name="topic_status" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6" remarks="5LiT5Yy654q25oCBMO+8muS4i+e6v++8jDHkuIrnur8="/>
+      <column name="image_style" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6" remarks="5YmN56uv5oiR55qE5qCH562+77yM5pi+56S6"/>
+      <column name="collect_uv" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4" def="MA=="/>
+      <column name="initial_uv" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4" def="MA=="/>
+      <column name="source_tid" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <column name="source_type" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <primary-key name="PRIMARY" columns="topic_id"/>
+      <index name="uk_sourcetid_sourcetype" unique="true" columns="source_tid,source_type"/>
+    </table>
+    <table name="con_topic_content" schema="" catalog="ec_con" type="TABLE">
+      <column name="id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="topic_id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" def="MA==" remarks="57G755uuaWQ="/>
+      <column name="content_id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" def="MA==" remarks="5YaF5a65SUQ="/>
+      <column name="content_location" sqlType="INT" precision="10" scale="0" nullable="true" jdbcType="4"/>
+      <column name="font_color" sqlType="VARCHAR" precision="32" scale="0" nullable="true" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="id"/>
+      <index name="uk_tid_guid" unique="true" columns="topic_id,content_id"/>
+    </table>
+    <table name="enum_content_type" schema="" catalog="ec_con" type="TABLE">
+      <column name="content_type" sqlType="TINYINT" precision="3" scale="0" nullable="false" jdbcType="-6"/>
+      <column name="type_desc" sqlType="VARCHAR" precision="30" scale="0" nullable="true" jdbcType="12"/>
+      <column name="category_status" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6" remarks="MO+8muS4jeWPr+WFs+iBlOebruW9leagkSAxOiDlj6/lhbPogZTnm67lvZXmoJEg"/>
+      <primary-key name="PRIMARY" columns="content_type"/>
+    </table>
+    <table name="enum_image_style" schema="" catalog="ec_con" type="TABLE">
+      <column name="image_style" sqlType="TINYINT" precision="3" scale="0" nullable="false" jdbcType="-6"/>
+      <column name="style_desc" sqlType="VARCHAR" precision="32" scale="0" nullable="true" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="image_style"/>
+    </table>
+    <table name="enum_intercut_style" schema="" catalog="ec_con" type="TABLE">
+      <column name="image_style" sqlType="TINYINT" precision="3" scale="0" nullable="false" jdbcType="-6" remarks="YmFubmVy5Y2K5Zu+LGJhbm5lcuWFqOWbvizlhajlsY/lm74s5Zu+5Lmm5bCB6Z2i"/>
+      <column name="style_desc" sqlType="VARCHAR" precision="64" scale="0" nullable="true" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="image_style"/>
+    </table>
+    <table name="enum_intercut_type" schema="" catalog="ec_con" type="TABLE">
+      <column name="intercut_type" sqlType="TINYINT" precision="3" scale="0" nullable="false" jdbcType="-6"/>
+      <column name="intercut_desc" sqlType="VARCHAR" precision="30" scale="0" nullable="true" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="intercut_type"/>
+    </table>
+    <table name="enum_message_type" schema="" catalog="ec_con" type="TABLE">
+      <column name="content_type" sqlType="TINYINT" precision="3" scale="0" nullable="false" jdbcType="-6"/>
+      <column name="type_desc" sqlType="VARCHAR" precision="30" scale="0" nullable="true" jdbcType="12"/>
+      <column name="category_status" sqlType="TINYINT" precision="3" scale="0" nullable="true" jdbcType="-6" remarks="MO+8muS4jeWPr+WFs+iBlOebruW9leagkSAxOiDlj6/lhbPogZTnm67lvZXmoJEg"/>
+      <primary-key name="PRIMARY" columns="content_type"/>
+    </table>
+    <table name="enum_source" schema="" catalog="ec_con" type="TABLE">
+      <column name="source_id" sqlType="TINYINT" precision="3" scale="0" nullable="false" jdbcType="-6"/>
+      <column name="source_desc" sqlType="VARCHAR" precision="30" scale="0" nullable="true" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="source_id"/>
+    </table>
+  </data-source>
+  <data-source name="MySQL - ds_read@182.92.184.14" uuid="2f5628f6-3146-4e08-8bd8-07b2e9699463">
+    <database-info product="MySQL" version="5.6.27" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact"/>
+    <schema name="" catalog="ds_read"/>
+    <table name="am_bdi_d" schema="" catalog="ds_read" type="VIEW"/>
+    <table name="app_uuid_access_chnl_d" schema="" catalog="ds_read" type="TABLE"/>
+    <table name="app_uuid_access_version_d" schema="" catalog="ds_read" type="TABLE"/>
+    <table name="app_uuid_multi_dim_d" schema="" catalog="ds_read" type="TABLE"/>
+    <table name="chnl_access_op_d" schema="" catalog="ds_read" type="TABLE"/>
+    <table name="chnl_uuid_retention_d" schema="" catalog="ds_read" type="TABLE"/>
+    <table name="chnl_uuid_retention_d_hive" schema="" catalog="ds_read" type="TABLE"/>
+    <table name="chnl_uuid_sbid_retention_d" schema="" catalog="ds_read" type="TABLE"/>
+    <table name="cmcc_bid_tel_m" schema="" catalog="ds_read" type="TABLE"/>
+    <table name="cmcc_channel" schema="" catalog="ds_read" type="TABLE"/>
+    <table name="cmcc_channel_book" schema="" catalog="ds_read" type="TABLE"/>
+    <table name="cmcc_mrmp_complain" schema="" catalog="ds_read" type="TABLE"/>
+    <table name="cmcc_mrmp_complain_order" schema="" catalog="ds_read" type="TABLE"/>
+    <table name="par_channel_cmcc_d" schema="" catalog="ds_read" type="VIEW"/>
+    <table name="prd_bid_c" schema="" catalog="ds_read" type="TABLE"/>
+    <table name="prd_bid_d" schema="" catalog="ds_read" type="TABLE"/>
+    <table name="uuid_op_d" schema="" catalog="ds_read" type="TABLE"/>
+    <table name="uuid_retention_d" schema="" catalog="ds_read" type="TABLE"/>
+  </data-source>
+</component>

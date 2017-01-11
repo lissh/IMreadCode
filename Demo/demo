@@ -1,0 +1,812 @@
+
+
+
+<!DOCTYPE html>
+
+
+<html>
+
+
+<head>
+  <meta charset="utf-8">
+  <title>域名查询结果_域名信息_二手域名-万网-阿里云旗下品牌</title>
+  <meta name="spm-id" content="5176">
+  <meta name="description" content="提供最全面的域名查询结果，用来查询域名是否已经被注册，以及注册域名的详细信息的数据库和已注册并可出售的二手域名。
+">
+  <meta name="keyword" content="域名查询,域名信息,二手域名
+">
+
+
+
+  <!-- header block start -->
+  <script type="text/javascript" src="//www.aliyun.com/rgn/aliyun_assets?renderer=js"></script>
+<style>
+  body, button, input, select, textarea{
+    font: 12px/1.5 "\5FAE\8F6F\96C5\9ED1","Microsoft Yahei","Hiragino Sans GB",tahoma,arial,"\5B8B\4F53" !important;
+  }
+</style>
+
+
+  <!-- header block end -->
+
+
+
+<!-- styles start -->
+
+  <link rel="stylesheet" href="//g.alicdn.com/tbc/global/0.0.8/index-min.css" />
+
+<!-- stlyes end -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- page export styles  -->
+
+
+
+<link rel="stylesheet" type="text/css" href="//g.alicdn.com/ali-mod/??wanwang-aliyun-com-domain-searchresult/0.0.29/index.css"/>
+
+
+
+
+<!-- page export styles end -->
+
+
+
+<!-- grid style start -->
+<link rel="stylesheet" href="https://g.alicdn.com/tms/layouts/0.1.8/layout-hangye-pc.css" />
+<!-- grid style end  -->
+
+
+
+<!--scripts start -->
+
+  <script src='//g.alicdn.com/??aliyun/ali-init/0.0.6/lib/dblCommonFn-min.js,tbc/global/0.0.8/index-min.js,aliyun/ali-init/0.0.11/lib/combineKissyDbl-min.js'></script>
+
+<!-- scripts end -->
+
+</head>
+<body data-spm='8076989'><script type="text/javascript">
+(function (d) {
+var t=d.createElement("script");t.type="text/javascript";t.async=true;t.id="tb-beacon-aplus";
+t.setAttribute("exparams","category=&userid=&aplus&yunid=");
+t.src="//g.alicdn.com/alilog/mlog/aplus_int.js";
+d.getElementsByTagName("head")[0].appendChild(t);
+})(document);
+</script>
+<script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","category=&userid=&aplus&yunid=&&asid=AQAAAAASxddXLQlCTAAAAAD6cRLtzBmTbA==",id="tb-beacon-aplus",src=(location>"https"?"//g":"//g")+".alicdn.com/alilog/mlog/aplus_v2.js")
+</script>
+
+
+<!-- nav block start -->
+  <!-- exported styles -->
+
+
+<link rel="stylesheet" type="text/css" href="//g.alicdn.com/ali-mod/??www-common-topbar-nav/0.0.1/index.css"/>
+
+
+
+
+
+
+  <!--region -->
+
+              <div data-spm="167279" data-moduleid="63097" data-name="www-common-topbar-nav" data-guid="167279" id="guid-167279" data-scene-id="188638" data-scene-version="0" data-hidden="" data-gitgroup="ali-mod" class="www-common-topbar-nav J_Module" tms="www-common-topbar-nav/0.0.1" tms-datakey="188638"><div class="module-wrap J_tb_lazyload">
+  <script type="text/javascript" src="//www.aliyun.com/rgn/aliyun_topbar_simple/index.js"></script>
+  <script type="text/javascript" src="//www.aliyun.com/rgn/aliyun_header?renderer=js"></script>
+  <script type="text/javascript">
+    if(!window.console){
+        console = {
+          log: function(info){
+            return false
+          }
+        }
+      }
+  </script>
+</div>
+</div>
+
+  <!--region -->
+
+
+
+<!-- exported scripts -->
+
+
+<script src="//g.alicdn.com/ali-mod/??www-common-topbar-nav/0.0.1/index.js"></script>
+
+
+
+
+<!-- nav block end -->
+
+
+<!-- body start -->
+
+
+<div class=" page-layout page-main-content" data-page-id="77555">
+
+  <!-- container -->
+  <div class="layout layout-grid-0">
+  <!--row -->
+    <div class="grid-0">
+
+  <!-- col -->
+
+        <div class="col col-main">
+            <div class="main-wrap J_Region">
+
+
+
+                    <!--module -->
+                    <div data-spm="339865" data-moduleid="151436" data-name="wanwang-aliyun-com-domain-searchresult" data-guid="339865" id="guid-339865" data-scene-id="354499" data-scene-version="9" data-hidden="" data-gitgroup="ali-mod" data-ext="" class="wanwang-aliyun-com-domain-searchresult J_Module" tms="wanwang-aliyun-com-domain-searchresult/0.0.29" tms-datakey="354499"><div class="module-wrap J_tb_lazyload dbl_tms_module_wrap">
+
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <!--[if lt IE 9]>
+    <meta http-equiv="X-UA-Compatible" content="IE=7,chrome=1">
+    <![endif]-->
+
+    <link rel="stylesheet" href="//g.alicdn.com/hichina/home/4.0.18/dpl/style/base.css">
+    <link rel="stylesheet" type="text/css" href="//g.alicdn.com/hichina/domain/4.3.32/style/searchresult.css">
+    <style type="text/css">
+      .fix-top{z-index:99}
+    </style>
+
+  <section class="page-body">
+    <div class="w-wrap-inner sr-top-nav clearfix">
+      <a href="//www.aliyun.com">阿里云首页</a> > <a href="//wanwang.aliyun.com">域名与网站</a> > <a href="//wanwang.aliyun.com/domain/">域名服务</a> > <span class="sr-top-nav-on">域名查询结果</span></div>
+    <div class="w-wrap-inner clearfix">
+      <div class="w-fl page-content">
+        <!--搜索区域-开始-->
+        <div class="sch-box">
+          <div id="J_domainSchFrm" class="sch-frm mod-single">
+            <div id="J_schModNav" class="tab-nav">
+              <a data-spm-click="gostr=/aliyun;locaid=dnav-single" href="javascript:void(0);" mod="single" class="nav-item nav-item-on">单选模式</a>
+              <span class="sprt">|</span>
+              <a data-spm-click="gostr=/aliyun;locaid=dnav-multi" href="javascript:void(0);" mod="multi-suffix" class="nav-item">多选模式</a>
+              <span class="sprt">|</span>
+              <a data-spm-click="gostr=/aliyun;locaid=dnav-multi-prefix" href="javascript:void(0);" mod="multi-prefix" class="nav-item">批量注册</a>
+              <span class="sprt">|</span>
+              <a  data-spm-click="gostr=/aliyun;locaid=dnav-multi-presale" href="javascript:void(0);" mod="multi-presale" class="nav-item">批量预登记</a>
+              <span class="sprt">|</span>
+              <a data-spm-click="gostr=/aliyun;locaid=dnav-multi-prefix-cn" href="javascript:void(0);" mod="multi-prefix-cn" class="nav-item">CN地方域名查询</a>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              <a href="//wanwang.aliyun.com/help/price.html" target="_blank">价格总览&gt;&gt;</a>
+            </div>
+            <div class="sch-body">
+              <div class="sch-bar">
+                <span id="J_tipForSingle" class="domain-tip single-txt-tip">注域名先查询，请输入域名，如wanwang</span>
+                <span id="J_tipForMulti" class="domain-tip multi-txt-tip">请输入域名，如wanwang，每行输入一个域名<br/>最多允许输入200个域名</span>
+                <input class="ipt-domain " id="J_iptSingleLine"><ins id="J_singleSuffixBox" class="suffix">
+                <span class="name J_selectedSuffix" type="en,zh">.com</span>
+                <b class="suf-arr"></b>
+                <div class="suf-list J_suffixList">
+                  <ul>
+                    <li class="J_suffixItem" type="en,zh">.com</li>
+                    <li class="J_suffixItem" type="en,zh">.cn</li>
+                    <li class="J_suffixItem" type="en,zh">.xyz</li>
+                    <li class="J_suffixItem" type="en,zh">.wang</li>
+                    <li class="J_suffixItem" type="en,zh">.net</li>
+                  </ul>
+                </div>
+              </ins><textarea class="ipt-batch-domain" id="J_iptMultiLine"></textarea><ins class="batch-suffix" id="J_batchSuffixBox">
+                <div class="suf-cont J_batchSuffixList">
+                  <label><input type="radio" name="batchPrefixSuf" value=".com" checked> .com</label>
+                  <label><input type="radio" name="batchPrefixSuf" value=".com.cn"> .com.cn</label>
+                  <label><input type="radio" name="batchPrefixSuf" value=".net"> .net</label>
+                  <label><input type="radio" name="batchPrefixSuf" value=".com"> .com</label>
+                  <label><input type="radio" name="batchPrefixSuf" value=".com.cn"> .com.cn</label>
+                  <label><input type="radio" name="batchPrefixSuf" value=".net"> .net</label>
+                  <label><input type="radio" name="batchPrefixSuf" value=".com"> .com</label>
+                  <label><input type="radio" name="batchPrefixSuf" value=".com.cn"> .com.cn</label>
+                  <label><input type="radio" name="batchPrefixSuf" value=".net"> .net</label>
+                  <label><input type="radio" name="batchPrefixSuf" value=".com"> .com</label>
+                  <label><input type="radio" name="batchPrefixSuf" value=".com.cn"> .com.cn</label>
+                  <label><input type="radio" name="batchPrefixSuf" value=".net"> .net</label>
+                </div>
+              </ins><ins class="batch-cn-suffix" id="J_batchCnSuffixBox">
+                <div class="suf-cont J_batchCnSuffixList">
+                  <label>
+                    <input type="radio" value=".ac.cn" name="batchCnSuf" checked="checked">
+                    .ac.cn</label>
+                  <label>
+                    <input type="radio" value=".bj.cn" name="batchCnSuf">
+                    .bj.cn</label>
+                  <label>
+                    <input type="radio" value=".sh.cn" name="batchCnSuf">
+                    .sh.cn</label>
+                  <label>
+                    <input type="radio" value=".tj.cn" name="batchCnSuf">
+                    .tj.cn</label>
+                  <label>
+                    <input type="radio" value=".cq.cn" name="batchCnSuf">
+                    .cq.cn</label>
+                  <label>
+                    <input type="radio" value=".he.cn" name="batchCnSuf">
+                    .he.cn</label>
+                  <label>
+                    <input type="radio" value=".sx.cn" name="batchCnSuf">
+                    .sx.cn</label>
+                  <label>
+                    <input type="radio" value=".nm.cn" name="batchCnSuf">
+                    .nm.cn</label>
+                  <label>
+                    <input type="radio" value=".ln.cn" name="batchCnSuf">
+                    .ln.cn</label>
+                  <label>
+                    <input type="radio" value=".jl.cn" name="batchCnSuf">
+                    .jl.cn</label>
+                  <label>
+                    <input type="radio" value=".hl.cn" name="batchCnSuf">
+                    .hl.cn</label>
+                  <label>
+                    <input type="radio" value=".js.cn" name="batchCnSuf">
+                    .js.cn</label>
+                  <label>
+                    <input type="radio" value=".zj.cn" name="batchCnSuf">
+                    .zj.cn</label>
+                  <label>
+                    <input type="radio" value=".ah.cn" name="batchCnSuf">
+                    .ah.cn</label>
+                  <label>
+                    <input type="radio" value=".fj.cn" name="batchCnSuf">
+                    .fj.cn</label>
+                  <label>
+                    <input type="radio" value=".jx.cn" name="batchCnSuf">
+                    .jx.cn</label>
+                  <label>
+                    <input type="radio" value=".sd.cn" name="batchCnSuf">
+                    .sd.cn</label>
+                  <label>
+                    <input type="radio" value=".ha.cn" name="batchCnSuf">
+                    .ha.cn</label>
+                  <label>
+                    <input type="radio" value=".hb.cn" name="batchCnSuf">
+                    .hb.cn</label>
+                  <label>
+                    <input type="radio" value=".hn.cn" name="batchCnSuf">
+                    .hn.cn</label>
+                  <label>
+                    <input type="radio" value=".gd.cn" name="batchCnSuf">
+                    .gd.cn</label>
+                  <label>
+                    <input type="radio" value=".gx.cn" name="batchCnSuf">
+                    .gx.cn</label>
+                  <label>
+                    <input type="radio" value=".hi.cn" name="batchCnSuf">
+                    .hi.cn</label>
+                  <label>
+                    <input type="radio" value=".sc.cn" name="batchCnSuf">
+                    .sc.cn</label>
+                  <label>
+                    <input type="radio" value=".gz.cn" name="batchCnSuf">
+                    .gz.cn</label>
+                  <label>
+                    <input type="radio" value=".yn.cn" name="batchCnSuf">
+                    .yn.cn</label>
+                  <label>
+                    <input type="radio" value=".xz.cn" name="batchCnSuf">
+                    .xz.cn</label>
+                  <label>
+                    <input type="radio" value=".sn.cn" name="batchCnSuf">
+                    .sn.cn</label>
+                  <label>
+                    <input type="radio" value=".gs.cn" name="batchCnSuf">
+                    .gs.cn</label>
+                  <label>
+                    <input type="radio" value=".qh.cn" name="batchCnSuf">
+                    .qh.cn</label>
+                  <label>
+                    <input type="radio" value=".nx.cn" name="batchCnSuf">
+                    .nx.cn</label>
+                  <label>
+                    <input type="radio" value=".xj.cn" name="batchCnSuf">
+                    .xj.cn</label>
+                  <label>
+                    <input type="radio" value=".tw.cn" name="batchCnSuf">
+                    .tw.cn</label>
+                  <label>
+                    <input type="radio" value=".hk.cn" name="batchCnSuf">
+                    .hk.cn</label>
+                  <label>
+                    <input type="radio" value=".mo.cn" name="batchCnSuf">
+                    .mo.cn</label>
+
+                </div>
+              </ins><button id="J_btnSubmitSchDomain" class="btn-go-sch" data-spm-click="gostr=/aliyun;locaid=dsearchbtn" style="font-size:24px!important;">查域名</button>
+              </div>
+              <div class="multi-suffix" id="J_multiSuffixBox">
+                <div class="cat-tag">
+                  <label><input type="radio" value="en" name="multiSufCatTag" checked> 英文域名</label>
+                  <label><input type="radio" value="zh" name="multiSufCatTag"> 中文域名</label>
+                </div>
+                <div class="cat-cont J_multiSufCat_en" style="display:block;">
+                  <label><input type="checkbox" name="multiSufName" value=".com.cn"> .com.cn</label>
+                  <label><input type="checkbox" name="multiSufName" value=".net"> .net</label>
+                  <label><input type="checkbox" name="multiSufName" value=".com" checked> .com</label>
+                  <label><input type="checkbox" name="multiSufName" value=".com.cn"> .com.cn</label>
+                  <label><input type="checkbox" name="multiSufName" value=".net"> .net</label>
+                  <label><input type="checkbox" name="multiSufName" value=".com" checked> .com</label>
+                  <label><input type="checkbox" name="multiSufName" value=".com.cn"> .com.cn</label>
+                  <label><input type="checkbox" name="multiSufName" value=".net"> .net</label>
+                </div>
+                <div class="cat-cont J_multiSufCat_zh">
+                  <label><input type="checkbox" name="multiSufName" value=".com" checked> .中文域名</label>
+                  <label><input type="checkbox" name="multiSufName" value=".com.cn"> .com.cn</label>
+                  <label><input type="checkbox" name="multiSufName" value=".com" checked> .中文域名</label>
+                  <label><input type="checkbox" name="multiSufName" value=".com.cn"> .com.cn</label>
+                  <label><input type="checkbox" name="multiSufName" value=".net"> .net</label>
+                  <label><input type="checkbox" name="multiSufName" value=".com" checked> .com</label>
+                  <label><input type="checkbox" name="multiSufName" value=".com.cn"> .com.cn</label>
+                  <label><input type="checkbox" name="multiSufName" value=".net"> .net</label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="J_schTip" style="display: none" class="margin-top y-mt3 w-alt w-alt-warning"><b>提示：</b></div>
+
+          <div class="result-box" id="J_searchResBox">
+
+
+
+
+            <li class="domComPromotion" data-on="">
+              <div>
+                <span class="gifticon"></span>
+                <span>类似价格您可再同时获取个3域名:</span>
+                <span class="J_pmt">
+                  <span class="tip">组合购买立省190元</span>
+                  <b class="arr"></b>
+                </span>
+                <ul class="availableList" data-suffixes="cn cc top">
+                </ul>
+                <div class="pricelabel">
+                  <span class="price_rt">原价239元/首年</span>组合价
+                  <span class="w-color-orange">49</span>
+                  <span>元/首年&nbsp;</span>
+                  <a style="" href="javascript:void(0);" class="btn btn-add">加入清单</a>
+              </div>
+            </li>
+
+
+
+
+
+
+
+            <ul class="rs-list">
+
+            </ul>
+            <div class="rs-btm clearfix" style="display: none">
+              <a href="javascript:void(0);" data-spm-click="gostr=/aliyun;locaid=dviewallsuffix" class="btn-view-all w-fl J_btnViewAll">查看全部后缀</a>
+              <a href="javascript:void(0);" data-spm-click="gostr=/aliyun;locaid=dhidewallsuffix" class="btn-view-all expanded w-fl J_btnHideAll">收起</a>
+              <a href="javascript:void(0);" data-spm-click="gostr=/aliyun;locaid=daddallsuffix" class="btn btn-add-all w-fr J_btnAddShoppingAll">全部加入清单</a>
+            </div>
+          </div>
+        </div>
+        <!--搜索区域-结束-->
+
+        <!--相似域名-开始-->
+        <div class="table-box related-domain J_relatedDomain">
+          <table width="100%" cellpadding="0" cellspacing="1">
+            <thead>
+              <tr>
+                <th colspan="2">
+                  <h3 class="w-fl tit">也许以下域名您也感兴趣</h3>
+                  <a href="javascript:void(0);" data-spm-click="gostr=/aliyun;locaid=drefresh"  class="chg w-fr J_btnChgGroup">换一批试试</a>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><td colspan="2"><div class="loading">查询中......</div></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <!--相似域名-结束-->
+
+        <!--二手域名-开始-->
+        <div class="tao-domain-new">
+          <h3 class="tao-tit"><span class="y-left">域名被注册了？直接买一个也是不错的选择！快来域名交易平台看看有没有感兴趣的，就像淘宝一样简单!</span>
+              <span class="tit-a y-left"><a href="//help.aliyun.com/knowledge_detail/10694925.html" target="_blank">什么是域名交易?</a></span></h3>
+            <div id="J-taodomain-newbox"></div>
+        </div><!-- end huangsq -->
+
+        <!--二手域名-结束-->
+
+        <!--banner-开始-->
+        <div class="banner-box">
+            <a href="https://chuangke.aliyun.com/markets/aliyun/chuangke/cncacsc"  style="display: inline " target="_blank" data-ga="域名.查询结果.创客大赛"><img src="https://img.alicdn.com/tps/TB1MoJRNXXXXXcSXXXXXXXXXXXX-924-126.jpg" alt="创客大赛"></a>
+        </div>
+        <!--banner-结束-->
+      </div>
+      <div class="w-fr page-sider" >
+        <div class="J_bannerBox" style="height: 160px;overflow: hidden">
+
+
+          <img src="https://img.alicdn.com/tps/TB1vqIMNXXXXXbiXXXXXXXXXXXX-252-160.jpg" alt="games预登记" href="https://wanwang.aliyun.com/promotion/domain/yudengji/index" data-ga="域名.查询结果.games预登记"/>
+
+          <img src="https://img.alicdn.com/tps/TB1BfhUNXXXXXaPXXXXXXXXXXXX-300-250.jpg" alt="电商域名shop" href="https://wanwang.aliyun.com/domain/EAPandyudengji" data-ga="域名.查询结果.电商域名shop"/>
+
+          <img src="https://img.alicdn.com/tps/TB15EeRNXXXXXaZaFXXXXXXXXXX-252-196.jpg" alt="xin标识" href="https://wanwang.aliyun.com/domain/xinzhan" data-ga="域名.查询结果.xin标识"/>
+
+          <img src="https://img.alicdn.com/tps/TB1wFJaNXXXXXXuaFXXXXXXXXXX-252-160.jpg" alt="独享虚机三重优惠" href="https://bbs.aliyun.com/read/292135.html" data-ga="域名.查询结果.主机三重惠"/>
+
+          <img src="https://img.alicdn.com/tps/TB1xA3wMVXXXXX9aXXXXXXXXXXX-252-160.jpg" alt="云解析低价体验" href="https://wanwang.aliyun.com/domain/dns/free" data-ga="域名.查询结果.云解析低价体验"/>
+
+
+        </div>
+        <div class="J_float_box">
+          <div class="sider-box domain-cart J_domainCartBox">
+            <div class="hd clearfix">
+              <h3 class="w-fl tit">域名清单 <span class="text-orange J_domain_count">()</span></h3>
+              <a data-spm-click="gostr=/aliyun;locaid=dclearcard"  href="javascript:void(0);" class="w-fr w-color-grayish J_btnClearDomainCart">清空</a>
+            </div>
+            <div class="bd">
+              <div class="J_cart_list">
+                <div class="list list-scroll">
+                </div>
+                <a data-spm-click="gostr=/aliyun;locaid=dgoshopping" href="//netcn.console.aliyun.com/core/domain/buylist" target="_blank" class="btn-goto J_btnGotoShopping">去结算</a>
+              </div>
+              <div class="J_cart_empty list list-empty">
+                您还没有选择任何域名哦
+              </div>
+            </div>
+          </div>
+
+          <div class="sider-box domain-knowledge">
+            <div class="hd clearfix">
+              <h3 class="w-fl tit">域名小知识</h3>
+            </div>
+            <div class="bd">
+              <ul class="list">
+
+                  <li><a href="http://help.www.net.cn/knowledge_detail.htm?knowledgeId=5867729" target="_blank" data-ga="">如何选择适合您的域名？</a></li>
+
+                  <li><a href="http://help.www.net.cn/knowledge_detail.htm?knowledgeId=5853982" target="_blank" data-ga="">如何购买域名？</a></li>
+
+                  <li><a href="http://help.www.net.cn/knowledge_detail.htm?knowledgeId=5867902" target="_blank" data-ga="">.cn等国内域名如何提交资料审核？</a></li>
+
+                  <li><a href="http://wanwang.aliyun.com/promotion/20130043/" target="_blank" data-ga="">域名要备案吗，如何备案？</a></li>
+
+                  <li><a href="http://help.www.net.cn/knowledge_detail.htm?knowledgeId=5867827" target="_blank" data-ga="">从域名到网站，要做哪几步？</a></li>
+
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <script type="text/javascript">
+   var error_msg ={
+        DOMAINSTRING_CAN_NOT_REGSITE:'域名不可注册,请您选购其他域名!',
+      SHOPPINGCART_COUNT_OVERFLOW:'您域名清单中的域名太多了，请先把购物清单中结算后，再添加新的域名！',
+      DOMAINSTRING_OR_PERIODNUM_IS_NULL:'请您稍后重试',
+      CAN_NOT_HAVE_MORE_THAN_ONE_XIN_DOMAIN:'您的域名清单中已有一个.xin域名，域名日升期内，无法同时购买多个.xin域名！<a href="//help.aliyun.com/knowledge_detail/6655665.html" target="_blank">了解什么是域名日升期?</a>'
+  }
+
+
+    function s32(){
+        var data=["0","1","2","3","4","5","6","7","8","9"
+          ,"a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"];
+
+        var result=[];
+        var length = data.length;
+        for(var i=0;i<32;i++){
+          var r=Math.floor(Math.random()*length);
+          result.push(data[r]);
+        }
+        return result.join('');
+      }
+      window.umToken='check-web-hichina-com:'+ s32();
+  if(!window.UA_Opt){
+      var UA_Opt = new Object;
+      UA_Opt.LogVal = "ua";
+      UA_Opt.Token= new Date().getTime() +":"+ window.umToken;
+      UA_Opt.SendInterval = 5;
+      UA_Opt.SendMethod=15;
+      UA_Opt.MaxMCLog = 10;
+      UA_Opt.MaxKSLog = 10;
+      UA_Opt.MaxMPLog = 10;
+      UA_Opt.MaxTCLog = 10;
+      UA_Opt.GPInterval =10;
+      UA_Opt.MPInterval = 10;
+      UA_Opt.MaxFocusLog = 10;
+      UA_Opt.Flag = 621710;
+    }
+    function getUA () {
+      var tmp_ua = window[UA_Opt.LogVal];
+      UA_Opt.Token= new Date().getTime() +":"+ window.umToken;
+      UA_Opt.reload && UA_Opt.reload();
+      return tmp_ua;
+    }
+
+   </script>
+  <script type="text/javascript" src="//g.alicdn.com/hichina/home/4.0.18/dpl/script/all.js" charset="utf-8"></script>
+  <script src="//g.alicdn.com/hichina/domain/4.3.32/script/searchresult.js" charset="utf-8"></script>
+  <script src="//g.alicdn.com/hichina/domain/4.3.32/script/vendor/jquery.json.js" charset="utf-8"></script>
+  <script type="text/javascript" src='//uaction.alicdn.com/js/uab.js'></script>
+  <script type="text/javascript" charset="utf-8" src="https://s.tbcdn.cn/g/security/umscript/2.0.2/um.js"></script>
+  <div id="_umfp" style="display:inline;width:1px;height:1px;overflow:hidden;position:absolute;">
+    <img id="_umfp_img" src="" />
+  </div>
+    <script type="text/javascript">
+      var container = document.getElementById('_umfp');
+      var containerImg = document.getElementById('_umfp_img');
+      containerImg.src=' https://ynuf.alipay.com/service/clear.png?xt='+window.umToken+'&xa=check-web-hichina-com';
+
+      um.init({
+        timeout: 2000,
+        timestamp: Date.now(),
+        token:window.umToken,
+        serviceUrl:'https://ynuf.alipay.com/service/um.json',
+        appName: 'check-web-hichina-com',
+        containers:{flash:container ,dcp:container} });
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- 域名列表 -->
+  <!-- exported styles -->
+
+
+<link rel="stylesheet" type="text/css" href="//g.alicdn.com/ali-mod/??wanwang-aliyun-com-api-domain-list/0.0.7/index.css"/>
+
+
+
+
+
+
+  <!--region -->
+
+              <div data-spm="339810" data-moduleid="155010" data-name="wanwang-aliyun-com-api-domain-list" data-guid="339810" id="guid-339810" data-scene-id="354444" data-scene-version="1" data-hidden="" data-gitgroup="ali-mod" data-ext="" class="wanwang-aliyun-com-api-domain-list J_Module" tms="wanwang-aliyun-com-api-domain-list/0.0.7" tms-datakey="354444"><div class="module-wrap J_tb_lazyload dbl_tms_module_wrap">
+  <script>
+    (function(){
+      function mysort(a,b){
+        return a['order'] - b['order'];
+      };
+      var arr_suffix_detail_list = [];
+      var arr_suffix = [];
+      var arr_searchRs = [];
+      var list = [{"domain_order":"1","product_id":"2a","default_check":"true","search_order":"1","pmtHtml":"<span class=\"pmt\"><a href=\"https://bbs.aliyun.com/read/293603.html\" target=\"_blank\">买域名，限时送30元主机代金券！</a><b class=\"arr\"></b></span>","domain":"com","support_cn":"true","cn_product_id":"4agb","checked":"true"},{"domain_order":"2","product_id":"19922","default_check":"true","search_order":"2","pmtHtml":"<span class=\"pmt\"><a href=\"https://market.aliyun.com/webdomain\" target=\"_blank\">99元即获英文.com/.net/.cn域名+建站组合包！</a><b class=\"arr\"></b></span>","domain":"cn","support_cn":"true","cn_product_id":"12904","checked":"true"},{"domain_order":"3","product_id":"15527","default_check":"true","search_order":"3","pmtHtml":"<span class=\"pmt\"><a href=\"https://bbs.aliyun.com/read/290187.html\" target=\"_blank\">买域名送250G大邮箱！</a><b class=\"arr\"></b></span>","domain":"xin","support_cn":"false","checked":"false"},{"domain_order":"4","product_id":"16065","default_check":"true","search_order":"5","domain":"shop","support_cn":"true","cn_product_id":"16065","checked":"false"},{"domain_order":"5","product_id":"16064","default_check":"true","search_order":"7","pmtHtml":"<span class=\"pmt\"><a href=\"https://wanwang.aliyun.com/domain/newgtld/#.ltd\" target=\"_blank\"> 有限公司专属，火爆注册！</a><b class=\"arr\"></b></span>","domain":"ltd","support_cn":"true","cn_product_id":"16064","checked":"false"},{"domain_order":"6","product_id":"15083","default_check":"true","search_order":"4","pmtHtml":"<span class=\"pmt\"><a href=\"http://wanwang.aliyun.com/domain/newgtld/#.win\" target=\"_blank\">9月独家，新购/续费/转入5元！</a><b class=\"arr\"></b></span>","domain":"win","support_cn":"false","checked":"false"},{"domain_order":"9","product_id":"12255","default_check":"true","search_order":"6","pmtHtml":"<span class=\"pmt\"><a href=\"https://bbs.aliyun.com/read/293004.html\" target=\"_blank\">买就送250G企业邮箱！</a><b class=\"arr\"></b></span>","domain":"top","support_cn":"true","cn_product_id":"12255","checked":"false"},{"domain_order":"7","product_id":"12259","default_check":"true","search_order":"11","domain":"club","support_cn":"false","checked":"false"},{"domain_order":"8","product_id":"12254","default_check":"true","search_order":"10","domain":"wang","support_cn":"true","cn_product_id":"12254","checked":"false"},{"domain_order":"10","product_id":"16054","default_check":"false","search_order":"20","domain":"vip","support_cn":"false","checked":"false"},{"domain_order":"13","product_id":"15427","default_check":"true","search_order":"9","pmtHtml":"<span class=\"pmt\">9月注册/续费/转入9元促销！<b class=\"arr\"></b></span>","domain":"pub","support_cn":"false","checked":"false"},{"domain_order":"11","product_id":"12257","default_check":"false","search_order":"13","domain":"xyz","support_cn":"true","cn_product_id":"12257","checked":"false"},{"domain_order":"12","product_id":"16062","default_check":"false","search_order":"14","pmtHtml":"<span class=\"pmt\"><a href=\"https://wanwang.aliyun.com/domain/newgtld/#.store\" target=\"_blank\">7.15-9.30首年促销</a><b class=\"arr\"></b></span>","domain":"store","support_cn":"false","checked":"false"},{"domain_order":"14","product_id":"has2acc","default_check":"false","search_order":"15","pmtHtml":"<span class=\"pmt\"><a href=\"http://bbs.aliyun.com/read/276137.html\" target=\"_blank\">新购/续费促销！</a><b class=\"arr\"></b></span>","domain":"cc","support_cn":"true","cn_product_id":"12461","checked":"false"},{"domain_order":"15","product_id":"15092","default_check":"true","search_order":"12","pmtHtml":"<span class=\"pmt\"><a href=\"http://wanwang.aliyun.com/domain/newgtld/#.site\" target=\"_blank\">单后缀订单业务量≥3，首年立减2元！</a><b class=\"arr\"></b></span>","domain":"site","support_cn":"false","checked":"false"},{"domain_order":"16","product_id":"15201","default_check":"false","search_order":"17","pmtHtml":"<span class=\"pmt\"><a href=\"https://promotion.aliyun.com/ntms/act/mailDomain.html\" target=\"_blank\">买邮箱送域名，限时抢购！</a><b class=\"arr\"></b></span>","domain":"net","support_cn":"true","cn_product_id":"4agb","checked":"true"},{"domain_order":"17","product_id":"12258","default_check":"false","search_order":"18","pmtHtml":"<span class=\"pmt\"><a href=\"http://wanwang.aliyun.com/domain/newgtld/#.ren\" target=\"_blank\">首年限时6元促销！</a><b class=\"arr\"></b></span>","domain":"ren","support_cn":"true","cn_product_id":"12258","checked":"false"},{"domain_order":"18","product_id":"16052","default_check":"false","search_order":"23","domain":"lol","support_cn":"false","checked":"false"},{"domain_order":"19","product_id":"16013","default_check":"false","search_order":"16","pmtHtml":"<span class=\"pmt\"><a href=\"http://wanwang.aliyun.com/domain/newgtld/#.bid\" target=\"_blank\">9月注册首年6元，续费/转入7元！</a><b class=\"arr\"></b></span>","domain":"bid","support_cn":"false","checked":"false"},{"domain_order":"20","product_id":"16051","default_check":"false","search_order":"22","pmtHtml":"<span class=\"pmt\"><a href=\"https://wanwang.aliyun.com/domain/newgtld/#.mom\" target=\"_blank\">母婴行业专属，18元/首年！</a><b class=\"arr\"></b></span>","domain":"mom","support_cn":"false","checked":"false"},{"domain_order":"21","product_id":"15088","default_check":"false","search_order":"19","pmtHtml":"<span class=\"pmt\"><a href=\"http://wanwang.aliyun.com/domain/newgtld/#.site\" target=\"_blank\">单后缀订单业务量≥3，首年立减2元！</a><b class=\"arr\"></b></span>","domain":"online","support_cn":"false","checked":"false"},{"domain_order":"22","product_id":"15091","default_check":"true","search_order":"8","pmtHtml":"<span class=\"pmt\"><a href=\"http://wanwang.aliyun.com/domain/newgtld/#.tech\" target=\"_blank\">9.5-9.12，限时促销！</a><b class=\"arr\"></b></span>","domain":"tech","support_cn":"false","checked":"false"},{"domain_order":"23","product_id":"12201","default_check":"false","search_order":"21","pmtHtml":"<span class=\"pmt\"><a href=\"http://wanwang.aliyun.com/domain/biz/\" target=\"_blank\">9月促销，注册2年仅68元！</a><b class=\"arr\"></b></span>","domain":"biz","support_cn":"true","cn_product_id":"12561","checked":"false"},{"domain_order":"24","product_id":"16011","default_check":"false","search_order":"25","domain":"red","support_cn":"false","checked":"false"},{"domain_order":"25","product_id":"15093","default_check":"false","search_order":"26","pmtHtml":"<span class=\"pmt\"><a href=\"http://wanwang.aliyun.com/domain/newgtld/#.site\" target=\"_blank\">单后缀订单业务量≥3，首年立减2元！</a><b class=\"arr\"></b></span>","domain":"website","support_cn":"false","checked":"false"},{"domain_order":"26","product_id":"15094","default_check":"false","search_order":"27","pmtHtml":"<span class=\"pmt\"><a href=\"http://wanwang.aliyun.com/domain/newgtld/#.site\" target=\"_blank\">单后缀订单业务量≥3，首年立减2元！</a><b class=\"arr\"></b></span>","domain":"space","support_cn":"false","checked":"false"},{"domain_order":"27","product_id":"15072","default_check":"false","search_order":"28","pmtHtml":"<span class=\"pmt\"><a href=\"http://wanwang.aliyun.com/domain/newgtld/#.link\" target=\"_blank\">首年18元限时促销！</a><b class=\"arr\"></b></span>","domain":"link","support_cn":"false","checked":"false"},{"domain_order":"28","product_id":"15081","default_check":"false","search_order":"29","domain":"news","support_cn":"false","checked":"false"},{"domain_order":"29","product_id":"15085","default_check":"false","search_order":"30","pmtHtml":"<span class=\"pmt\"><a href=\"http://wanwang.aliyun.com/domain/newgtld/#.date\" target=\"_blank\">首年6元，续费/转入9元！</a><b class=\"arr\"></b></span>","domain":"date","support_cn":"false","checked":"false"},{"domain_order":"30","product_id":"16012","default_check":"false","search_order":"31","pmtHtml":"<span class=\"pmt\"><a href=\"http://wanwang.aliyun.com/domain/newgtld/#.loan\" target=\"_blank\">首年6元，续费/转入9元！</a><b class=\"arr\"></b></span>","domain":"loan","support_cn":"false","checked":"false"},{"domain_order":"31","product_id":"12081","default_check":"false","search_order":"32","pmtHtml":"<span class=\"pmt\"><a href=\"http://wanwang.aliyun.com/domain/mobi/\" target=\"_blank\">限时低价注册，仅30元/首年！</a><b class=\"arr\"></b></span>","domain":"mobi","support_cn":"false","checked":"false"},{"domain_order":"32","product_id":"15095","default_check":"false","search_order":"63","domain":"press","support_cn":"false","checked":"false"},{"domain_order":"33","product_id":"15082","default_check":"false","search_order":"64","domain":"video","support_cn":"false","checked":"false"},{"domain_order":"34","product_id":"15425","default_check":"false","search_order":"65","domain":"market","support_cn":"false","checked":"false"},{"domain_order":"35","product_id":"15107","default_check":"false","search_order":"33","domain":"live","support_cn":"false","checked":"false"},{"domain_order":"36","product_id":"15108","default_check":"false","search_order":"35","domain":"studio","support_cn":"false","checked":"false"},{"domain_order":"37","product_id":"15073","default_check":"false","search_order":"36","domain":"help","support_cn":"false","checked":"false"},{"domain_order":"38","product_id":"2a1","default_check":"false","search_order":"37","pmtHtml":"<span class=\"pmt\"><a href=\"http://wanwang.aliyun.com/domain/info/\" target=\"_blank\">限时低价注册，仅30元/首年！</a><b class=\"arr\"></b></span>","domain":"info","support_cn":"false","checked":"false"},{"domain_order":"39","product_id":"15071","default_check":"false","search_order":"38","domain":"click","support_cn":"false","checked":"false"},{"domain_order":"40","product_id":"15075","default_check":"false","search_order":"39","domain":"pics","support_cn":"false","checked":"false"},{"domain_order":"41","product_id":"15076","default_check":"false","search_order":"40","domain":"photo","support_cn":"false","checked":"false"},{"domain_order":"42","product_id":"15086","default_check":"false","search_order":"41","pmtHtml":"<span class=\"pmt\"><a href=\"http://wanwang.aliyun.com/domain/newgtld/#.trade\" target=\"_blank\">首年6元，续费/转入9元！</a><b class=\"arr\"></b></span>","domain":"trade","support_cn":"false","checked":"false"},{"domain_order":"43","product_id":"15087","default_check":"false","search_order":"42","pmtHtml":"<span class=\"pmt\"><a href=\"http://wanwang.aliyun.com/domain/newgtld/#.science\" target=\"_blank\">首年6元，续费/转入9元！</a><b class=\"arr\"></b></span>","domain":"science","support_cn":"false","checked":"false"},{"domain_order":"44","product_id":"15084","default_check":"false","search_order":"43","pmtHtml":"<span class=\"pmt\"><a href=\"http://wanwang.aliyun.com/domain/newgtld/#.party\" target=\"_blank\">首年6元，续费/转入9元！</a><b class=\"arr\"></b></span>","domain":"party","support_cn":"false","checked":"false"},{"domain_order":"45","product_id":"15422","default_check":"false","search_order":"44","domain":"rocks","support_cn":"false","checked":"false"},{"domain_order":"46","product_id":"15423","default_check":"false","search_order":"45","domain":"band","support_cn":"false","checked":"false"},{"domain_order":"47","product_id":"15074","default_check":"false","search_order":"46","domain":"gift","support_cn":"false","checked":"false"},{"domain_order":"48","product_id":"15097","default_check":"false","search_order":"47","domain":"wiki","support_cn":"false","checked":"false"},{"domain_order":"49","product_id":"15098","default_check":"false","search_order":"48","domain":"design","support_cn":"false","checked":"false"},{"domain_order":"50","product_id":"15429","default_check":"false","search_order":"49","domain":"software","support_cn":"false","checked":"false"},{"domain_order":"51","product_id":"15428","default_check":"false","search_order":"50","domain":"social","support_cn":"false","checked":"false"},{"domain_order":"52","product_id":"15430","default_check":"false","search_order":"51","domain":"lawyer","support_cn":"false","checked":"false"},{"domain_order":"53","product_id":"15424","default_check":"false","search_order":"52","domain":"engineer","support_cn":"false","checked":"false"},{"domain_order":"54","product_id":"12021","default_check":"false","search_order":"53","domain":"org","support_cn":"false","checked":"false"},{"domain_order":"55","product_id":"19922","default_check":"false","search_order":"54","domain":"com.cn","support_cn":"false","checked":"false"},{"domain_order":"56","product_id":"19922","default_check":"false","search_order":"55","domain":"net.cn","support_cn":"false","checked":"false"},{"domain_order":"57","product_id":"19922","default_check":"false","search_order":"56","domain":"org.cn","support_cn":"false","checked":"false"},{"domain_order":"58","product_id":"14581","default_check":"false","search_order":"57","domain":"gov.cn","support_cn":"false","checked":"false"},{"domain_order":"59","product_id":"10961","default_check":"false","search_order":"58","domain":"name","support_cn":"false","checked":"false"},{"domain_order":"60","product_id":"has2atv","default_check":"false","search_order":"59","domain":"tv","support_cn":"true","cn_product_id":"12462","checked":"false"},{"domain_order":"61","product_id":"13701","default_check":"false","search_order":"60","domain":"me","support_cn":"false","checked":"false"},{"domain_order":"62","product_id":"13321","default_check":"false","search_order":"61","domain":"asia","support_cn":"false","checked":"false"},{"domain_order":"63","product_id":"17922","default_check":"false","search_order":"62","domain":"co","support_cn":"false","checked":"false"},{"domain_order":"64","product_id":"12256","default_check":"false","search_order":"34","pmtHtml":"<span class=\"pmt\"><a href=\"http://wanwang.aliyun.com/domain/newgtld/#.我爱你\" target=\"_blank\">首年限时促销！</a><b class=\"arr\"></b></span>","domain":"我爱你","support_cn":"true","cn_product_id":"12256","checked":"false"},{"domain_order":"65","product_id":"16055","default_check":"false","search_order":"24","domain":"work","support_cn":"false","checked":"false"},{"domain_order":"66","product_id":"12903","default_check":"false","search_order":"66","pmtHtml":"<span class=\"pmt\"><a href=\"http://help.aliyun.com/knowledge_detail/13096888.html\" target=\"_blank\">中文注册须遵守“域名命名审核标准”</a><b class=\"arr\"></b></span>","domain":"中国","support_cn":"true","cn_product_id":"4agb-cn","checked":"false"},{"domain_order":"67","product_id":"20149","default_check":"false","search_order":"67","pmtHtml":"<span class=\"pmt\"><a href=\"http://help.aliyun.com/knowledge_detail/13096888.html\" target=\"_blank\">中文注册须遵守“域名命名审核标准”</a><b class=\"arr\"></b></span>","domain":"公司","support_cn":"true","cn_product_id":"20148","checked":"false"},{"domain_order":"68","product_id":"20149","default_check":"false","search_order":"68","pmtHtml":"<span class=\"pmt\"><a href=\"http://help.aliyun.com/knowledge_detail/13096888.html\" target=\"_blank\">中文注册须遵守“域名命名审核标准”</a><b class=\"arr\"></b></span>","domain":"网络","support_cn":"true","cn_product_id":"20148","checked":"false"},{"domain_order":"69","product_id":"12260","default_check":"false","search_order":"69","domain":"集团","support_cn":"true","cn_product_id":"12260","checked":"false"},{"domain_order":"70","product_id":"16053","default_check":"false","search_order":"70","pmtHtml":"<span class=\"pmt\"><a href=\"https://bbs.aliyun.com/read/282806.html\" target=\"_blank\">游戏领域专属，全球开放！</a><b class=\"arr\"></b></span>","domain":"game","support_cn":"false","checked":"false"},{"domain_order":"71","product_id":"16093","default_check":"false","search_order":"71","pmtHtml":"<span class=\"pmt\"><a href=\"https://wanwang.aliyun.com/promotion/domain/yudengji/index\" target=\"_blank\">游戏域名，9月13日16:00抢先预定</a><b class=\"arr\"></b></span>","domain":"games","support_cn":"true","cn_product_id":"16093","checked":"false"},{"domain_order":"72","product_id":"16091","default_check":"false","search_order":"72","domain":"pro","support_cn":"false","checked":"false"},{"domain_order":"73","product_id":"16092","default_check":"false","search_order":"73","domain":"kim","support_cn":"false","checked":"false"}];
+      var default_select_domain = "com";
+      for(var i=0,len=list.length;i<len;i++){
+        var item = list[i];
+        arr_suffix.push({
+          'suffix': item.domain,
+          'product_id' : item.product_id,
+          'cn_product_id' : item.cn_product_id,
+          'default_check' : "" + item.default_check,
+          'support_cn': "" + item.support_cn,
+          'checked' : "" + item.checked,
+          'pmtHtml' : item.pmtHtml,
+          'order' : parseInt(item.domain_order)
+        });
+        arr_searchRs.push({
+          'suffix' : item.domain,
+          'order' : parseInt(item.search_order)
+        });
+      }
+      //排序
+      arr_suffix.sort(mysort);
+      arr_searchRs.sort(mysort);
+
+
+      //排序之后的域名列表（order:从小到大）
+      var arr_suffix_list = [];
+
+      var suffix_detail_list = {};
+
+      for(var j=0,len2=arr_suffix.length;j<len2;j++){
+        var item2 = arr_suffix[j];
+        arr_suffix_list.push( item2.suffix );
+        suffix_detail_list[ item2.suffix ] = {
+          support_cn : item2['support_cn'],
+          product_id : item2['product_id'],
+          cn_product_id : item2['cn_product_id'],
+          default_check : item2['default_check'],
+          suffix_type : item2['support_cn'] ? 'zh,en' : 'en',
+          checked : item2['checked'],
+          pmtHtml : item2['pmtHtml'],
+          order : item2['order']
+        };
+      }
+
+      //搜索结果排序
+      var arr_search_list = [];
+      for(var k=0,len3 = arr_searchRs.length;k<len3;k++ ){
+        var item3 = arr_searchRs[k];
+        arr_search_list.push( item3.suffix );
+      }
+
+      window.domainDataList= {
+        defaultSelect :  default_select_domain,
+        suffix_detail_list : suffix_detail_list,
+        suffix_list: arr_suffix_list,
+        search_rs_order : arr_search_list
+      };
+
+    })()
+  </script>
+</div>
+
+
+</div>
+
+  <!--region -->
+
+
+
+<!-- exported scripts -->
+
+
+<script src="//g.alicdn.com/ali-mod/??wanwang-aliyun-com-api-domain-list/0.0.7/index.js"></script>
+
+
+
+
+
+  <script type="text/javascript" >
+    /*域名下拉列表*/
+    domainSearchResult = window.domainSearchResult({
+      /* initMod: single|multi-suffix|multi-prefix */
+      initMod:'single',
+      schModes:['single','multi-suffix','multi-prefix','multi-prefix-cn'],
+
+      bindDnsSuffix: "com,",
+      alidnsTips: {"com":{"tip":"+云解析基础版（更可靠的访问保障）","oPrice":"156","price":"91"}},
+      bindPerSaleSuffix: "shop,",
+      aliPreSaleTips: {"shop":{"tip":"提前付款预登记,待9月26日23点正式注册时由系统抢注","originprice":"原价188元/首年","price":"<span class=\"w-color-orange J-preregprice\">108</span> 元/首年","display":"true"}},
+      bindPremiumSuffix: "shop,",
+      aliPremiumSaleTips: {"shop":{"tip":"提前付款预登记,待9月26日23点正式注册时由系统抢注","originprice":"原价188元/首年","price":"<span class=\"w-color-orange J-preregprice\">108</span> 元/首年","display":"true"}},
+
+      domSchFrm:$('#J_domainSchFrm'),
+      domIptSingleLine:$('#J_iptSingleLine'),
+      domTipForSingle:$('#J_tipForSingle'),
+      domIptMultiLine:$('#J_iptMultiLine'),
+      domTipForMulti:$('#J_tipForMulti'),
+      domBtnSubmit:$('#J_btnSubmitSchDomain'),
+      domModTags:$('#J_schModNav .nav-item'),
+      domSingleSuffixBox:$('#J_singleSuffixBox'),
+      domainSuffixData: window.domainDataList,
+      apiCheckDomain:'//pandavip.www.net.cn/check/checkdomain',
+      domComPromotion: $('.domComPromotion')
+    });
+
+    //根据url选中tab
+    (function(){
+      var querys = location.search.split('&');
+      var mode = '';
+      var modeTargets = ['single','multi-suffix','multi-prefix-cn'];
+      if(querys.length){
+        for(var i=0,len=querys.length;i<len;i++){
+          var item = querys[i].split('=');
+          if(item && item.length ==2 && item[1] && modeTargets.indexOf(item[1]) > -1 ){
+            mode = item[1];
+            break;
+          }
+        }
+        try{
+          $('[mod="'+ mode +'"]').trigger('click');
+        }catch(e){}
+      }
+    })();
+  </script>
+</div>
+
+</div>
+                    <!--module -->
+
+
+
+          </div>
+
+        </div>
+  <!--col -->
+
+    </div>
+  <!-- row -->
+  </div>
+  <!-- container -->
+
+</div>
+
+
+<!-- body end -->
+
+
+  <!-- footer block start -->
+  <!-- exported styles -->
+
+
+<link rel="stylesheet" type="text/css" href="//g.alicdn.com/ali-mod/??www-common-fotter/0.0.3/index.css"/>
+
+
+
+
+
+
+  <!--region -->
+
+              <div data-spm="52157" data-moduleid="29242" data-name="www-common-fotter" data-guid="52157" id="guid-52157" data-scene-id="79681" data-scene-version="0" data-hidden="" class="www-common-fotter J_Module" tms="www-common-fotter/0.0.3" tms-datakey="79681"><div class="module-wrap J_tb_lazyload">
+    <script type="text/javascript" src="//www.aliyun.com/rgn/aliyun_footer?renderer=js"></script>
+</div>
+</div>
+
+  <!--region -->
+
+
+
+<!-- exported scripts -->
+
+
+<script src="//g.alicdn.com/ali-mod/??www-common-fotter/0.0.3/index.js"></script>
+
+
+
+
+  <!-- footer block end -->
+
+
+
+
+
+<!-- page export scripts  -->
+
+
+
+
+<script src="//g.alicdn.com/ali-mod/??wanwang-aliyun-com-domain-searchresult/0.0.29/index.js"></script>
+
+
+
+
+
+<!-- page export scripts end -->
+
+<script type="text/javascript">(function(e){if(!e["_med"])e["_med"]={};var t=e["_med"];t.cookie=function(e,t,a){if(t!==undefined){a=a||{};if(typeof a.expires==="number"){var o=a.expires,l=a.expires=new Date;l.setTime(+l+o*864e5)}return document.cookie=[e,"=",String(t),a.expires?"; expires="+a.expires.toUTCString():"",a.path?"; path="+a.path:"",a.domain?"; domain="+a.domain:"",a.secure?"; secure":""].join("")}var r=e?undefined:{};var i=document.cookie?document.cookie.split("; "):[];for(var n=0,s=i.length;n<s;n++){var b=i[n].split("=");var d=b.shift();var p=b.join("=");if(e&&e===d){r=p;break}if(!e&&p!==undefined){r[d]=p}}return r};var a=document;var o=e.devicePixelRatio||1,l=a.documentElement.clientWidth,r=a.documentElement.clientHeight,i,n,s,b=/initial-scale=([\d\.]+?),/i,d,p;if(a.querySelector){p=a.querySelector('meta[name="viewport"]');if(p){d=b.exec(p.content+",");if(d){s=parseFloat(d[1],10)}}}if(s){l=l*s;r=r*s}if(screen){if(Math.abs(screen.width-l*o)<.2*screen.width){l=screen.width/o;r=screen.height/o;i=screen.width;n=screen.height}else{l=screen.width;r=screen.height;i=screen.width*o;n=screen.height*o}}else{i=l*o;n=r*o}var m="createTouch"in a&&"ontouchstart"in e?1:0;var c=["dw:"+l,"dh:"+r,"pw:"+i,"ph:"+n,"ist:"+m].join("&");t.cookie("_med",c,{expires:3650})})(window);
+</script></body>
+</html>
+
+
+
+
+
+
+
+
+
+
+

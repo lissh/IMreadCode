@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block sidebar-style %}sidebar-mini{% end %}
+{% block header %}
+
+            <header class="main-header">
+                <!-- Logo -->
+                <a href="index2.html" class="logo">
+
+                  <span class="logo-mini"><i class="fa fa-home"></i></span>
+                  <span class="logo-lg">管理平台</span>
+                </a>
+                <nav class="navbar navbar-static-top" role="navigation">
+                    <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
+                        <span class="sr-only">Toggle navigation</span>
+                    </a>
+                    <div class="navbar-custom-menu">
+
+                    </div>
+                </nav>
+
+           </header>
+{% end %}
+{% block sidebar %}
+<aside class="main-sidebar">
+                <section class="sidebar">
+
+                </section>
+            </aside>
+{% end %}
+{% block footer %}
+<footer class="main-footer">
+                <div class="pull-right hidden-xs">
+                  <b>Version</b> 1.0.1
+                </div>
+                <strong>Copyright &copy; 2016-2017 .</strong>聚能鼎力 版权所有
+            </footer>
+
+{% block pagejs %}
+
+{% end %}
+
+<script src="{{static_url('plugins/slimScroll/jquery.slimscroll.min.js')}}"></script>
+
+{% end %}
